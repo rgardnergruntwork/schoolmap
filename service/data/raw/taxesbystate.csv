@@ -1,0 +1,1614 @@
+GEO.id,GEO.id2,GEO.display-label,YEAR.id,GOVTAX.id,GOVTAX.display-label,AMOUNT
+Geographic identifier code,Id2,Geographic area name,Year,Tax Type,Meaning of Tax Type,"Amount ($1,000)"
+0100000US,,United States,2016,01121,Total Taxes,930263745
+0100000US,,United States,2016,011211,Property Taxes,18364298
+0100000US,,United States,2016,011212,Sales and Gross Receipts Taxes,442909995
+0100000US,,United States,2016,0112121,General Sales and Gross Receipts Taxes,292815900
+0100000US,,United States,2016,0112122,Selective Sales and Gross Receipts Taxes,150094095
+0100000US,,United States,2016,01121221,Alcoholic Beverages Sales Tax,6620096
+0100000US,,United States,2016,01121222,Amusements Sales Tax,7597086
+0100000US,,United States,2016,01121223,Insurance Premiums Sales Tax,20495224
+0100000US,,United States,2016,01121224,Motor Fuels Sales Tax,43757220
+0100000US,,United States,2016,01121225,Pari-mutuels Sales Tax,124090
+0100000US,,United States,2016,01121226,Public Utilities Sales Tax,13256078
+0100000US,,United States,2016,01121227,Tobacco Products Sales Tax,18011700
+0100000US,,United States,2016,01121229,Other Selective Sales and Gross Receipts Taxes,40232601
+0100000US,,United States,2016,0112123,License Taxes,52164396
+0100000US,,United States,2016,01121231,Alcoholic Beverages License,637264
+0100000US,,United States,2016,01121232,Amusements License,543093
+0100000US,,United States,2016,01121233,Corporations in General License,5615067
+0100000US,,United States,2016,01121234,Hunting and Fishing License,1595489
+0100000US,,United States,2016,01121235,Motor Vehicle License,25603133
+0100000US,,United States,2016,01121236,Motor Vehicle Operators License,2597873
+0100000US,,United States,2016,01121237,Public Utilities License,1250122
+0100000US,,United States,2016,01121238,"Occupation and Business License, NEC",12961870
+0100000US,,United States,2016,01121239,Other License Taxes,1360485
+0100000US,,United States,2016,0112124,Income Taxes,392286910
+0100000US,,United States,2016,01121241,Individual Income Taxes,345528601
+0100000US,,United States,2016,01121242,Corporations Net Income Taxes,46758309
+0100000US,,United States,2016,0112125,Other Taxes,24538146
+0100000US,,United States,2016,0112126,Death and Gift Taxes,5133305
+0100000US,,United States,2016,0112127,Documentarty and Stock Transfer Taxes,9131636
+0100000US,,United States,2016,0112128,Severance Taxes,7649594
+0100000US,,United States,2016,0112129,"Taxes, NEC",2623611
+0400000US01,01,Alabama,2016,01121,Total Taxes,9919794
+0400000US01,01,Alabama,2016,011211,Property Taxes,346277
+0400000US01,01,Alabama,2016,011212,Sales and Gross Receipts Taxes,5106102
+0400000US01,01,Alabama,2016,0112121,General Sales and Gross Receipts Taxes,2596223
+0400000US01,01,Alabama,2016,0112122,Selective Sales and Gross Receipts Taxes,2509879
+0400000US01,01,Alabama,2016,01121221,Alcoholic Beverages Sales Tax,210535
+0400000US01,01,Alabama,2016,01121222,Amusements Sales Tax,6
+0400000US01,01,Alabama,2016,01121223,Insurance Premiums Sales Tax,317657
+0400000US01,01,Alabama,2016,01121224,Motor Fuels Sales Tax,526763
+0400000US01,01,Alabama,2016,01121225,Pari-mutuels Sales Tax,1401
+0400000US01,01,Alabama,2016,01121226,Public Utilities Sales Tax,695626
+0400000US01,01,Alabama,2016,01121227,Tobacco Products Sales Tax,180301
+0400000US01,01,Alabama,2016,01121229,Other Selective Sales and Gross Receipts Taxes,577590
+0400000US01,01,Alabama,2016,0112123,License Taxes,507479
+0400000US01,01,Alabama,2016,01121231,Alcoholic Beverages License,4224
+0400000US01,01,Alabama,2016,01121232,Amusements License,X
+0400000US01,01,Alabama,2016,01121233,Corporations in General License,162117
+0400000US01,01,Alabama,2016,01121234,Hunting and Fishing License,22931
+0400000US01,01,Alabama,2016,01121235,Motor Vehicle License,213550
+0400000US01,01,Alabama,2016,01121236,Motor Vehicle Operators License,33964
+0400000US01,01,Alabama,2016,01121237,Public Utilities License,14443
+0400000US01,01,Alabama,2016,01121238,"Occupation and Business License, NEC",56250
+0400000US01,01,Alabama,2016,01121239,Other License Taxes,0
+0400000US01,01,Alabama,2016,0112124,Income Taxes,3869584
+0400000US01,01,Alabama,2016,01121241,Individual Income Taxes,3492904
+0400000US01,01,Alabama,2016,01121242,Corporations Net Income Taxes,376680
+0400000US01,01,Alabama,2016,0112125,Other Taxes,90352
+0400000US01,01,Alabama,2016,0112126,Death and Gift Taxes,0
+0400000US01,01,Alabama,2016,0112127,Documentarty and Stock Transfer Taxes,43730
+0400000US01,01,Alabama,2016,0112128,Severance Taxes,46622
+0400000US01,01,Alabama,2016,0112129,"Taxes, NEC",X
+0400000US02,02,Alaska,2016,01121,Total Taxes,1042164
+0400000US02,02,Alaska,2016,011211,Property Taxes,111736
+0400000US02,02,Alaska,2016,011212,Sales and Gross Receipts Taxes,260846
+0400000US02,02,Alaska,2016,0112121,General Sales and Gross Receipts Taxes,X
+0400000US02,02,Alaska,2016,0112122,Selective Sales and Gross Receipts Taxes,260846
+0400000US02,02,Alaska,2016,01121221,Alcoholic Beverages Sales Tax,42430
+0400000US02,02,Alaska,2016,01121222,Amusements Sales Tax,10306
+0400000US02,02,Alaska,2016,01121223,Insurance Premiums Sales Tax,64400
+0400000US02,02,Alaska,2016,01121224,Motor Fuels Sales Tax,48773
+0400000US02,02,Alaska,2016,01121225,Pari-mutuels Sales Tax,X
+0400000US02,02,Alaska,2016,01121226,Public Utilities Sales Tax,4027
+0400000US02,02,Alaska,2016,01121227,Tobacco Products Sales Tax,67918
+0400000US02,02,Alaska,2016,01121229,Other Selective Sales and Gross Receipts Taxes,22992
+0400000US02,02,Alaska,2016,0112123,License Taxes,120529
+0400000US02,02,Alaska,2016,01121231,Alcoholic Beverages License,1919
+0400000US02,02,Alaska,2016,01121232,Amusements License,0
+0400000US02,02,Alaska,2016,01121233,Corporations in General License,X
+0400000US02,02,Alaska,2016,01121234,Hunting and Fishing License,29500
+0400000US02,02,Alaska,2016,01121235,Motor Vehicle License,38000
+0400000US02,02,Alaska,2016,01121236,Motor Vehicle Operators License,X
+0400000US02,02,Alaska,2016,01121237,Public Utilities License,838
+0400000US02,02,Alaska,2016,01121238,"Occupation and Business License, NEC",46957
+0400000US02,02,Alaska,2016,01121239,Other License Taxes,3315
+0400000US02,02,Alaska,2016,0112124,Income Taxes,212252
+0400000US02,02,Alaska,2016,01121241,Individual Income Taxes,X
+0400000US02,02,Alaska,2016,01121242,Corporations Net Income Taxes,212252
+0400000US02,02,Alaska,2016,0112125,Other Taxes,336801
+0400000US02,02,Alaska,2016,0112126,Death and Gift Taxes,X
+0400000US02,02,Alaska,2016,0112127,Documentarty and Stock Transfer Taxes,X
+0400000US02,02,Alaska,2016,0112128,Severance Taxes,336801
+0400000US02,02,Alaska,2016,0112129,"Taxes, NEC",X
+0400000US04,04,Arizona,2016,01121,Total Taxes,14676375
+0400000US04,04,Arizona,2016,011211,Property Taxes,943008
+0400000US04,04,Arizona,2016,011212,Sales and Gross Receipts Taxes,8680009
+0400000US04,04,Arizona,2016,0112121,General Sales and Gross Receipts Taxes,6660817
+0400000US04,04,Arizona,2016,0112122,Selective Sales and Gross Receipts Taxes,2019192
+0400000US04,04,Arizona,2016,01121221,Alcoholic Beverages Sales Tax,72281
+0400000US04,04,Arizona,2016,01121222,Amusements Sales Tax,3830
+0400000US04,04,Arizona,2016,01121223,Insurance Premiums Sales Tax,545124
+0400000US04,04,Arizona,2016,01121224,Motor Fuels Sales Tax,898234
+0400000US04,04,Arizona,2016,01121225,Pari-mutuels Sales Tax,160
+0400000US04,04,Arizona,2016,01121226,Public Utilities Sales Tax,22337
+0400000US04,04,Arizona,2016,01121227,Tobacco Products Sales Tax,317331
+0400000US04,04,Arizona,2016,01121229,Other Selective Sales and Gross Receipts Taxes,159895
+0400000US04,04,Arizona,2016,0112123,License Taxes,482362
+0400000US04,04,Arizona,2016,01121231,Alcoholic Beverages License,7416
+0400000US04,04,Arizona,2016,01121232,Amusements License,X
+0400000US04,04,Arizona,2016,01121233,Corporations in General License,18342
+0400000US04,04,Arizona,2016,01121234,Hunting and Fishing License,35059
+0400000US04,04,Arizona,2016,01121235,Motor Vehicle License,228970
+0400000US04,04,Arizona,2016,01121236,Motor Vehicle Operators License,31373
+0400000US04,04,Arizona,2016,01121237,Public Utilities License,X
+0400000US04,04,Arizona,2016,01121238,"Occupation and Business License, NEC",159454
+0400000US04,04,Arizona,2016,01121239,Other License Taxes,1748
+0400000US04,04,Arizona,2016,0112124,Income Taxes,4538472
+0400000US04,04,Arizona,2016,01121241,Individual Income Taxes,3967924
+0400000US04,04,Arizona,2016,01121242,Corporations Net Income Taxes,570548
+0400000US04,04,Arizona,2016,0112125,Other Taxes,32524
+0400000US04,04,Arizona,2016,0112126,Death and Gift Taxes,X
+0400000US04,04,Arizona,2016,0112127,Documentarty and Stock Transfer Taxes,17328
+0400000US04,04,Arizona,2016,0112128,Severance Taxes,15196
+0400000US04,04,Arizona,2016,0112129,"Taxes, NEC",X
+0400000US05,05,Arkansas,2016,01121,Total Taxes,9452883
+0400000US05,05,Arkansas,2016,011211,Property Taxes,1119958
+0400000US05,05,Arkansas,2016,011212,Sales and Gross Receipts Taxes,4590072
+0400000US05,05,Arkansas,2016,0112121,General Sales and Gross Receipts Taxes,3314363
+0400000US05,05,Arkansas,2016,0112122,Selective Sales and Gross Receipts Taxes,1275709
+0400000US05,05,Arkansas,2016,01121221,Alcoholic Beverages Sales Tax,55164
+0400000US05,05,Arkansas,2016,01121222,Amusements Sales Tax,56031
+0400000US05,05,Arkansas,2016,01121223,Insurance Premiums Sales Tax,192020
+0400000US05,05,Arkansas,2016,01121224,Motor Fuels Sales Tax,479879
+0400000US05,05,Arkansas,2016,01121225,Pari-mutuels Sales Tax,2616
+0400000US05,05,Arkansas,2016,01121226,Public Utilities Sales Tax,X
+0400000US05,05,Arkansas,2016,01121227,Tobacco Products Sales Tax,230527
+0400000US05,05,Arkansas,2016,01121229,Other Selective Sales and Gross Receipts Taxes,259472
+0400000US05,05,Arkansas,2016,0112123,License Taxes,396891
+0400000US05,05,Arkansas,2016,01121231,Alcoholic Beverages License,4624
+0400000US05,05,Arkansas,2016,01121232,Amusements License,473
+0400000US05,05,Arkansas,2016,01121233,Corporations in General License,26703
+0400000US05,05,Arkansas,2016,01121234,Hunting and Fishing License,26579
+0400000US05,05,Arkansas,2016,01121235,Motor Vehicle License,163023
+0400000US05,05,Arkansas,2016,01121236,Motor Vehicle Operators License,21825
+0400000US05,05,Arkansas,2016,01121237,Public Utilities License,8351
+0400000US05,05,Arkansas,2016,01121238,"Occupation and Business License, NEC",143422
+0400000US05,05,Arkansas,2016,01121239,Other License Taxes,1891
+0400000US05,05,Arkansas,2016,0112124,Income Taxes,3231617
+0400000US05,05,Arkansas,2016,01121241,Individual Income Taxes,2781458
+0400000US05,05,Arkansas,2016,01121242,Corporations Net Income Taxes,450159
+0400000US05,05,Arkansas,2016,0112125,Other Taxes,114345
+0400000US05,05,Arkansas,2016,0112126,Death and Gift Taxes,3
+0400000US05,05,Arkansas,2016,0112127,Documentarty and Stock Transfer Taxes,38844
+0400000US05,05,Arkansas,2016,0112128,Severance Taxes,48340
+0400000US05,05,Arkansas,2016,0112129,"Taxes, NEC",27158
+0400000US06,06,California,2016,01121,Total Taxes,155231252
+0400000US06,06,California,2016,011211,Property Taxes,2513157
+0400000US06,06,California,2016,011212,Sales and Gross Receipts Taxes,53365753
+0400000US06,06,California,2016,0112121,General Sales and Gross Receipts Taxes,39189007
+0400000US06,06,California,2016,0112122,Selective Sales and Gross Receipts Taxes,14176746
+0400000US06,06,California,2016,01121221,Alcoholic Beverages Sales Tax,368699
+0400000US06,06,California,2016,01121222,Amusements Sales Tax,X
+0400000US06,06,California,2016,01121223,Insurance Premiums Sales Tax,2561932
+0400000US06,06,California,2016,01121224,Motor Fuels Sales Tax,5000539
+0400000US06,06,California,2016,01121225,Pari-mutuels Sales Tax,14537
+0400000US06,06,California,2016,01121226,Public Utilities Sales Tax,714623
+0400000US06,06,California,2016,01121227,Tobacco Products Sales Tax,840034
+0400000US06,06,California,2016,01121229,Other Selective Sales and Gross Receipts Taxes,4676382
+0400000US06,06,California,2016,0112123,License Taxes,8551427
+0400000US06,06,California,2016,01121231,Alcoholic Beverages License,57406
+0400000US06,06,California,2016,01121232,Amusements License,16767
+0400000US06,06,California,2016,01121233,Corporations in General License,75066
+0400000US06,06,California,2016,01121234,Hunting and Fishing License,104698
+0400000US06,06,California,2016,01121235,Motor Vehicle License,3996089
+0400000US06,06,California,2016,01121236,Motor Vehicle Operators License,296160
+0400000US06,06,California,2016,01121237,Public Utilities License,674660
+0400000US06,06,California,2016,01121238,"Occupation and Business License, NEC",3303576
+0400000US06,06,California,2016,01121239,Other License Taxes,27005
+0400000US06,06,California,2016,0112124,Income Taxes,90655530
+0400000US06,06,California,2016,01121241,Individual Income Taxes,80753345
+0400000US06,06,California,2016,01121242,Corporations Net Income Taxes,9902185
+0400000US06,06,California,2016,0112125,Other Taxes,145385
+0400000US06,06,California,2016,0112126,Death and Gift Taxes,X
+0400000US06,06,California,2016,0112127,Documentarty and Stock Transfer Taxes,X
+0400000US06,06,California,2016,0112128,Severance Taxes,68500
+0400000US06,06,California,2016,0112129,"Taxes, NEC",76885
+0400000US08,08,Colorado,2016,01121,Total Taxes,12795318
+0400000US08,08,Colorado,2016,011211,Property Taxes,X
+0400000US08,08,Colorado,2016,011212,Sales and Gross Receipts Taxes,4897029
+0400000US08,08,Colorado,2016,0112121,General Sales and Gross Receipts Taxes,2840173
+0400000US08,08,Colorado,2016,0112122,Selective Sales and Gross Receipts Taxes,2056856
+0400000US08,08,Colorado,2016,01121221,Alcoholic Beverages Sales Tax,43407
+0400000US08,08,Colorado,2016,01121222,Amusements Sales Tax,116374
+0400000US08,08,Colorado,2016,01121223,Insurance Premiums Sales Tax,277647
+0400000US08,08,Colorado,2016,01121224,Motor Fuels Sales Tax,667037
+0400000US08,08,Colorado,2016,01121225,Pari-mutuels Sales Tax,620
+0400000US08,08,Colorado,2016,01121226,Public Utilities Sales Tax,11650
+0400000US08,08,Colorado,2016,01121227,Tobacco Products Sales Tax,201187
+0400000US08,08,Colorado,2016,01121229,Other Selective Sales and Gross Receipts Taxes,738934
+0400000US08,08,Colorado,2016,0112123,License Taxes,702499
+0400000US08,08,Colorado,2016,01121231,Alcoholic Beverages License,7367
+0400000US08,08,Colorado,2016,01121232,Amusements License,821
+0400000US08,08,Colorado,2016,01121233,Corporations in General License,19541
+0400000US08,08,Colorado,2016,01121234,Hunting and Fishing License,79664
+0400000US08,08,Colorado,2016,01121235,Motor Vehicle License,504010
+0400000US08,08,Colorado,2016,01121236,Motor Vehicle Operators License,36751
+0400000US08,08,Colorado,2016,01121237,Public Utilities License,14717
+0400000US08,08,Colorado,2016,01121238,"Occupation and Business License, NEC",39628
+0400000US08,08,Colorado,2016,01121239,Other License Taxes,0
+0400000US08,08,Colorado,2016,0112124,Income Taxes,7111711
+0400000US08,08,Colorado,2016,01121241,Individual Income Taxes,6485602
+0400000US08,08,Colorado,2016,01121242,Corporations Net Income Taxes,626109
+0400000US08,08,Colorado,2016,0112125,Other Taxes,84079
+0400000US08,08,Colorado,2016,0112126,Death and Gift Taxes,0
+0400000US08,08,Colorado,2016,0112127,Documentarty and Stock Transfer Taxes,X
+0400000US08,08,Colorado,2016,0112128,Severance Taxes,84079
+0400000US08,08,Colorado,2016,0112129,"Taxes, NEC",X
+0400000US09,09,Connecticut,2016,01121,Total Taxes,15244947
+0400000US09,09,Connecticut,2016,011211,Property Taxes,X
+0400000US09,09,Connecticut,2016,011212,Sales and Gross Receipts Taxes,6149782
+0400000US09,09,Connecticut,2016,0112121,General Sales and Gross Receipts Taxes,3752793
+0400000US09,09,Connecticut,2016,0112122,Selective Sales and Gross Receipts Taxes,2396989
+0400000US09,09,Connecticut,2016,01121221,Alcoholic Beverages Sales Tax,56345
+0400000US09,09,Connecticut,2016,01121222,Amusements Sales Tax,305057
+0400000US09,09,Connecticut,2016,01121223,Insurance Premiums Sales Tax,208895
+0400000US09,09,Connecticut,2016,01121224,Motor Fuels Sales Tax,467749
+0400000US09,09,Connecticut,2016,01121225,Pari-mutuels Sales Tax,6876
+0400000US09,09,Connecticut,2016,01121226,Public Utilities Sales Tax,298858
+0400000US09,09,Connecticut,2016,01121227,Tobacco Products Sales Tax,350723
+0400000US09,09,Connecticut,2016,01121229,Other Selective Sales and Gross Receipts Taxes,702486
+0400000US09,09,Connecticut,2016,0112123,License Taxes,455454
+0400000US09,09,Connecticut,2016,01121231,Alcoholic Beverages License,9356
+0400000US09,09,Connecticut,2016,01121232,Amusements License,230
+0400000US09,09,Connecticut,2016,01121233,Corporations in General License,28878
+0400000US09,09,Connecticut,2016,01121234,Hunting and Fishing License,5200
+0400000US09,09,Connecticut,2016,01121235,Motor Vehicle License,224287
+0400000US09,09,Connecticut,2016,01121236,Motor Vehicle Operators License,48719
+0400000US09,09,Connecticut,2016,01121237,Public Utilities License,675
+0400000US09,09,Connecticut,2016,01121238,"Occupation and Business License, NEC",133427
+0400000US09,09,Connecticut,2016,01121239,Other License Taxes,4682
+0400000US09,09,Connecticut,2016,0112124,Income Taxes,8276620
+0400000US09,09,Connecticut,2016,01121241,Individual Income Taxes,7557153
+0400000US09,09,Connecticut,2016,01121242,Corporations Net Income Taxes,719467
+0400000US09,09,Connecticut,2016,0112125,Other Taxes,363091
+0400000US09,09,Connecticut,2016,0112126,Death and Gift Taxes,195157
+0400000US09,09,Connecticut,2016,0112127,Documentarty and Stock Transfer Taxes,167132
+0400000US09,09,Connecticut,2016,0112128,Severance Taxes,X
+0400000US09,09,Connecticut,2016,0112129,"Taxes, NEC",802
+0400000US10,10,Delaware,2016,01121,Total Taxes,3522301
+0400000US10,10,Delaware,2016,011211,Property Taxes,X
+0400000US10,10,Delaware,2016,011212,Sales and Gross Receipts Taxes,539193
+0400000US10,10,Delaware,2016,0112121,General Sales and Gross Receipts Taxes,X
+0400000US10,10,Delaware,2016,0112122,Selective Sales and Gross Receipts Taxes,539193
+0400000US10,10,Delaware,2016,01121221,Alcoholic Beverages Sales Tax,20274
+0400000US10,10,Delaware,2016,01121222,Amusements Sales Tax,X
+0400000US10,10,Delaware,2016,01121223,Insurance Premiums Sales Tax,96279
+0400000US10,10,Delaware,2016,01121224,Motor Fuels Sales Tax,125453
+0400000US10,10,Delaware,2016,01121225,Pari-mutuels Sales Tax,69
+0400000US10,10,Delaware,2016,01121226,Public Utilities Sales Tax,55394
+0400000US10,10,Delaware,2016,01121227,Tobacco Products Sales Tax,111762
+0400000US10,10,Delaware,2016,01121229,Other Selective Sales and Gross Receipts Taxes,129962
+0400000US10,10,Delaware,2016,0112123,License Taxes,1452596
+0400000US10,10,Delaware,2016,01121231,Alcoholic Beverages License,1584
+0400000US10,10,Delaware,2016,01121232,Amusements License,306
+0400000US10,10,Delaware,2016,01121233,Corporations in General License,1274897
+0400000US10,10,Delaware,2016,01121234,Hunting and Fishing License,3030
+0400000US10,10,Delaware,2016,01121235,Motor Vehicle License,54287
+0400000US10,10,Delaware,2016,01121236,Motor Vehicle Operators License,6738
+0400000US10,10,Delaware,2016,01121237,Public Utilities License,X
+0400000US10,10,Delaware,2016,01121238,"Occupation and Business License, NEC",105868
+0400000US10,10,Delaware,2016,01121239,Other License Taxes,5886
+0400000US10,10,Delaware,2016,0112124,Income Taxes,1430520
+0400000US10,10,Delaware,2016,01121241,Individual Income Taxes,1112368
+0400000US10,10,Delaware,2016,01121242,Corporations Net Income Taxes,318152
+0400000US10,10,Delaware,2016,0112125,Other Taxes,99992
+0400000US10,10,Delaware,2016,0112126,Death and Gift Taxes,9350
+0400000US10,10,Delaware,2016,0112127,Documentarty and Stock Transfer Taxes,89527
+0400000US10,10,Delaware,2016,0112128,Severance Taxes,X
+0400000US10,10,Delaware,2016,0112129,"Taxes, NEC",1115
+0400000US11,11,District of Columbia,2016,01121,Total Taxes,7404521
+0400000US11,11,District of Columbia,2016,011211,Property Taxes,2416604
+0400000US11,11,District of Columbia,2016,011212,Sales and Gross Receipts Taxes,1783982
+0400000US11,11,District of Columbia,2016,0112121,General Sales and Gross Receipts Taxes,1343192
+0400000US11,11,District of Columbia,2016,0112122,Selective Sales and Gross Receipts Taxes,440790
+0400000US11,11,District of Columbia,2016,01121221,Alcoholic Beverages Sales Tax,6468
+0400000US11,11,District of Columbia,2016,01121222,Amusements Sales Tax,X
+0400000US11,11,District of Columbia,2016,01121223,Insurance Premiums Sales Tax,106887
+0400000US11,11,District of Columbia,2016,01121224,Motor Fuels Sales Tax,25332
+0400000US11,11,District of Columbia,2016,01121225,Pari-mutuels Sales Tax,X
+0400000US11,11,District of Columbia,2016,01121226,Public Utilities Sales Tax,186498
+0400000US11,11,District of Columbia,2016,01121227,Tobacco Products Sales Tax,30451
+0400000US11,11,District of Columbia,2016,01121229,Other Selective Sales and Gross Receipts Taxes,85154
+0400000US11,11,District of Columbia,2016,0112123,License Taxes,180380
+0400000US11,11,District of Columbia,2016,01121231,Alcoholic Beverages License,7855
+0400000US11,11,District of Columbia,2016,01121232,Amusements License,X
+0400000US11,11,District of Columbia,2016,01121233,Corporations in General License,32764
+0400000US11,11,District of Columbia,2016,01121234,Hunting and Fishing License,94
+0400000US11,11,District of Columbia,2016,01121235,Motor Vehicle License,36751
+0400000US11,11,District of Columbia,2016,01121236,Motor Vehicle Operators License,5079
+0400000US11,11,District of Columbia,2016,01121237,Public Utilities License,X
+0400000US11,11,District of Columbia,2016,01121238,"Occupation and Business License, NEC",49004
+0400000US11,11,District of Columbia,2016,01121239,Other License Taxes,48833
+0400000US11,11,District of Columbia,2016,0112124,Income Taxes,2464330
+0400000US11,11,District of Columbia,2016,01121241,Individual Income Taxes,1907862
+0400000US11,11,District of Columbia,2016,01121242,Corporations Net Income Taxes,556468
+0400000US11,11,District of Columbia,2016,0112125,Other Taxes,559225
+0400000US11,11,District of Columbia,2016,0112126,Death and Gift Taxes,53967
+0400000US11,11,District of Columbia,2016,0112127,Documentarty and Stock Transfer Taxes,444194
+0400000US11,11,District of Columbia,2016,0112128,Severance Taxes,X
+0400000US11,11,District of Columbia,2016,0112129,"Taxes, NEC",61064
+0400000US12,12,Florida,2016,01121,Total Taxes,37640420
+0400000US12,12,Florida,2016,011211,Property Taxes,20
+0400000US12,12,Florida,2016,011212,Sales and Gross Receipts Taxes,30429302
+0400000US12,12,Florida,2016,0112121,General Sales and Gross Receipts Taxes,22291157
+0400000US12,12,Florida,2016,0112122,Selective Sales and Gross Receipts Taxes,8138145
+0400000US12,12,Florida,2016,01121221,Alcoholic Beverages Sales Tax,396418
+0400000US12,12,Florida,2016,01121222,Amusements Sales Tax,202942
+0400000US12,12,Florida,2016,01121223,Insurance Premiums Sales Tax,705400
+0400000US12,12,Florida,2016,01121224,Motor Fuels Sales Tax,2611492
+0400000US12,12,Florida,2016,01121225,Pari-mutuels Sales Tax,6921
+0400000US12,12,Florida,2016,01121226,Public Utilities Sales Tax,2408133
+0400000US12,12,Florida,2016,01121227,Tobacco Products Sales Tax,1223029
+0400000US12,12,Florida,2016,01121229,Other Selective Sales and Gross Receipts Taxes,583810
+0400000US12,12,Florida,2016,0112123,License Taxes,2241468
+0400000US12,12,Florida,2016,01121231,Alcoholic Beverages License,9132
+0400000US12,12,Florida,2016,01121232,Amusements License,18000
+0400000US12,12,Florida,2016,01121233,Corporations in General License,315059
+0400000US12,12,Florida,2016,01121234,Hunting and Fishing License,17026
+0400000US12,12,Florida,2016,01121235,Motor Vehicle License,1552251
+0400000US12,12,Florida,2016,01121236,Motor Vehicle Operators License,117146
+0400000US12,12,Florida,2016,01121237,Public Utilities License,25516
+0400000US12,12,Florida,2016,01121238,"Occupation and Business License, NEC",177077
+0400000US12,12,Florida,2016,01121239,Other License Taxes,10261
+0400000US12,12,Florida,2016,0112124,Income Taxes,2272230
+0400000US12,12,Florida,2016,01121241,Individual Income Taxes,X
+0400000US12,12,Florida,2016,01121242,Corporations Net Income Taxes,2272230
+0400000US12,12,Florida,2016,0112125,Other Taxes,2697400
+0400000US12,12,Florida,2016,0112126,Death and Gift Taxes,140
+0400000US12,12,Florida,2016,0112127,Documentarty and Stock Transfer Taxes,2662080
+0400000US12,12,Florida,2016,0112128,Severance Taxes,35180
+0400000US12,12,Florida,2016,0112129,"Taxes, NEC",X
+0400000US13,13,Georgia,2016,01121,Total Taxes,21454446
+0400000US13,13,Georgia,2016,011211,Property Taxes,961780
+0400000US13,13,Georgia,2016,011212,Sales and Gross Receipts Taxes,8408456
+0400000US13,13,Georgia,2016,0112121,General Sales and Gross Receipts Taxes,5480196
+0400000US13,13,Georgia,2016,0112122,Selective Sales and Gross Receipts Taxes,2928260
+0400000US13,13,Georgia,2016,01121221,Alcoholic Beverages Sales Tax,190536
+0400000US13,13,Georgia,2016,01121222,Amusements Sales Tax,X
+0400000US13,13,Georgia,2016,01121223,Insurance Premiums Sales Tax,428700
+0400000US13,13,Georgia,2016,01121224,Motor Fuels Sales Tax,1655028
+0400000US13,13,Georgia,2016,01121225,Pari-mutuels Sales Tax,X
+0400000US13,13,Georgia,2016,01121226,Public Utilities Sales Tax,X
+0400000US13,13,Georgia,2016,01121227,Tobacco Products Sales Tax,219870
+0400000US13,13,Georgia,2016,01121229,Other Selective Sales and Gross Receipts Taxes,434126
+0400000US13,13,Georgia,2016,0112123,License Taxes,663946
+0400000US13,13,Georgia,2016,01121231,Alcoholic Beverages License,3983
+0400000US13,13,Georgia,2016,01121232,Amusements License,0
+0400000US13,13,Georgia,2016,01121233,Corporations in General License,51050
+0400000US13,13,Georgia,2016,01121234,Hunting and Fishing License,26569
+0400000US13,13,Georgia,2016,01121235,Motor Vehicle License,366897
+0400000US13,13,Georgia,2016,01121236,Motor Vehicle Operators License,108475
+0400000US13,13,Georgia,2016,01121237,Public Utilities License,X
+0400000US13,13,Georgia,2016,01121238,"Occupation and Business License, NEC",82123
+0400000US13,13,Georgia,2016,01121239,Other License Taxes,24849
+0400000US13,13,Georgia,2016,0112124,Income Taxes,11420536
+0400000US13,13,Georgia,2016,01121241,Individual Income Taxes,10439534
+0400000US13,13,Georgia,2016,01121242,Corporations Net Income Taxes,981002
+0400000US13,13,Georgia,2016,0112125,Other Taxes,-272
+0400000US13,13,Georgia,2016,0112126,Death and Gift Taxes,-414
+0400000US13,13,Georgia,2016,0112127,Documentarty and Stock Transfer Taxes,142
+0400000US13,13,Georgia,2016,0112128,Severance Taxes,X
+0400000US13,13,Georgia,2016,0112129,"Taxes, NEC",X
+0400000US15,15,Hawaii,2016,01121,Total Taxes,6919035
+0400000US15,15,Hawaii,2016,011211,Property Taxes,X
+0400000US15,15,Hawaii,2016,011212,Sales and Gross Receipts Taxes,4315902
+0400000US15,15,Hawaii,2016,0112121,General Sales and Gross Receipts Taxes,3206154
+0400000US15,15,Hawaii,2016,0112122,Selective Sales and Gross Receipts Taxes,1109748
+0400000US15,15,Hawaii,2016,01121221,Alcoholic Beverages Sales Tax,50590
+0400000US15,15,Hawaii,2016,01121222,Amusements Sales Tax,X
+0400000US15,15,Hawaii,2016,01121223,Insurance Premiums Sales Tax,157900
+0400000US15,15,Hawaii,2016,01121224,Motor Fuels Sales Tax,92591
+0400000US15,15,Hawaii,2016,01121225,Pari-mutuels Sales Tax,X
+0400000US15,15,Hawaii,2016,01121226,Public Utilities Sales Tax,152760
+0400000US15,15,Hawaii,2016,01121227,Tobacco Products Sales Tax,124890
+0400000US15,15,Hawaii,2016,01121229,Other Selective Sales and Gross Receipts Taxes,531017
+0400000US15,15,Hawaii,2016,0112123,License Taxes,263130
+0400000US15,15,Hawaii,2016,01121231,Alcoholic Beverages License,X
+0400000US15,15,Hawaii,2016,01121232,Amusements License,X
+0400000US15,15,Hawaii,2016,01121233,Corporations in General License,1765
+0400000US15,15,Hawaii,2016,01121234,Hunting and Fishing License,599
+0400000US15,15,Hawaii,2016,01121235,Motor Vehicle License,186742
+0400000US15,15,Hawaii,2016,01121236,Motor Vehicle Operators License,349
+0400000US15,15,Hawaii,2016,01121237,Public Utilities License,20804
+0400000US15,15,Hawaii,2016,01121238,"Occupation and Business License, NEC",41566
+0400000US15,15,Hawaii,2016,01121239,Other License Taxes,11305
+0400000US15,15,Hawaii,2016,0112124,Income Taxes,2224299
+0400000US15,15,Hawaii,2016,01121241,Individual Income Taxes,2116130
+0400000US15,15,Hawaii,2016,01121242,Corporations Net Income Taxes,108169
+0400000US15,15,Hawaii,2016,0112125,Other Taxes,115704
+0400000US15,15,Hawaii,2016,0112126,Death and Gift Taxes,49613
+0400000US15,15,Hawaii,2016,0112127,Documentarty and Stock Transfer Taxes,66091
+0400000US15,15,Hawaii,2016,0112128,Severance Taxes,X
+0400000US15,15,Hawaii,2016,0112129,"Taxes, NEC",X
+0400000US16,16,Idaho,2016,01121,Total Taxes,4209514
+0400000US16,16,Idaho,2016,011211,Property Taxes,X
+0400000US16,16,Idaho,2016,011212,Sales and Gross Receipts Taxes,2121094
+0400000US16,16,Idaho,2016,0112121,General Sales and Gross Receipts Taxes,1559332
+0400000US16,16,Idaho,2016,0112122,Selective Sales and Gross Receipts Taxes,561762
+0400000US16,16,Idaho,2016,01121221,Alcoholic Beverages Sales Tax,9235
+0400000US16,16,Idaho,2016,01121222,Amusements Sales Tax,X
+0400000US16,16,Idaho,2016,01121223,Insurance Premiums Sales Tax,87727
+0400000US16,16,Idaho,2016,01121224,Motor Fuels Sales Tax,337335
+0400000US16,16,Idaho,2016,01121225,Pari-mutuels Sales Tax,3666
+0400000US16,16,Idaho,2016,01121226,Public Utilities Sales Tax,1876
+0400000US16,16,Idaho,2016,01121227,Tobacco Products Sales Tax,50574
+0400000US16,16,Idaho,2016,01121229,Other Selective Sales and Gross Receipts Taxes,71349
+0400000US16,16,Idaho,2016,0112123,License Taxes,372883
+0400000US16,16,Idaho,2016,01121231,Alcoholic Beverages License,1662
+0400000US16,16,Idaho,2016,01121232,Amusements License,289
+0400000US16,16,Idaho,2016,01121233,Corporations in General License,2502
+0400000US16,16,Idaho,2016,01121234,Hunting and Fishing License,39984
+0400000US16,16,Idaho,2016,01121235,Motor Vehicle License,177260
+0400000US16,16,Idaho,2016,01121236,Motor Vehicle Operators License,11187
+0400000US16,16,Idaho,2016,01121237,Public Utilities License,57166
+0400000US16,16,Idaho,2016,01121238,"Occupation and Business License, NEC",79026
+0400000US16,16,Idaho,2016,01121239,Other License Taxes,3807
+0400000US16,16,Idaho,2016,0112124,Income Taxes,1710234
+0400000US16,16,Idaho,2016,01121241,Individual Income Taxes,1521238
+0400000US16,16,Idaho,2016,01121242,Corporations Net Income Taxes,188996
+0400000US16,16,Idaho,2016,0112125,Other Taxes,5303
+0400000US16,16,Idaho,2016,0112126,Death and Gift Taxes,X
+0400000US16,16,Idaho,2016,0112127,Documentarty and Stock Transfer Taxes,X
+0400000US16,16,Idaho,2016,0112128,Severance Taxes,5303
+0400000US16,16,Idaho,2016,0112129,"Taxes, NEC",X
+0400000US17,17,Illinois,2016,01121,Total Taxes,38907220
+0400000US17,17,Illinois,2016,011211,Property Taxes,60814
+0400000US17,17,Illinois,2016,011212,Sales and Gross Receipts Taxes,18524265
+0400000US17,17,Illinois,2016,0112121,General Sales and Gross Receipts Taxes,11344480
+0400000US17,17,Illinois,2016,0112122,Selective Sales and Gross Receipts Taxes,7179785
+0400000US17,17,Illinois,2016,01121221,Alcoholic Beverages Sales Tax,287865
+0400000US17,17,Illinois,2016,01121222,Amusements Sales Tax,787519
+0400000US17,17,Illinois,2016,01121223,Insurance Premiums Sales Tax,424959
+0400000US17,17,Illinois,2016,01121224,Motor Fuels Sales Tax,1354039
+0400000US17,17,Illinois,2016,01121225,Pari-mutuels Sales Tax,6420
+0400000US17,17,Illinois,2016,01121226,Public Utilities Sales Tax,1585911
+0400000US17,17,Illinois,2016,01121227,Tobacco Products Sales Tax,844928
+0400000US17,17,Illinois,2016,01121229,Other Selective Sales and Gross Receipts Taxes,1888144
+0400000US17,17,Illinois,2016,0112123,License Taxes,2745949
+0400000US17,17,Illinois,2016,01121231,Alcoholic Beverages License,13097
+0400000US17,17,Illinois,2016,01121232,Amusements License,15442
+0400000US17,17,Illinois,2016,01121233,Corporations in General License,363019
+0400000US17,17,Illinois,2016,01121234,Hunting and Fishing License,40354
+0400000US17,17,Illinois,2016,01121235,Motor Vehicle License,1695934
+0400000US17,17,Illinois,2016,01121236,Motor Vehicle Operators License,116222
+0400000US17,17,Illinois,2016,01121237,Public Utilities License,4723
+0400000US17,17,Illinois,2016,01121238,"Occupation and Business License, NEC",469273
+0400000US17,17,Illinois,2016,01121239,Other License Taxes,27885
+0400000US17,17,Illinois,2016,0112124,Income Taxes,17173986
+0400000US17,17,Illinois,2016,01121241,Individual Income Taxes,13806525
+0400000US17,17,Illinois,2016,01121242,Corporations Net Income Taxes,3367461
+0400000US17,17,Illinois,2016,0112125,Other Taxes,402206
+0400000US17,17,Illinois,2016,0112126,Death and Gift Taxes,325230
+0400000US17,17,Illinois,2016,0112127,Documentarty and Stock Transfer Taxes,76976
+0400000US17,17,Illinois,2016,0112128,Severance Taxes,X
+0400000US17,17,Illinois,2016,0112129,"Taxes, NEC",X
+0400000US18,18,Indiana,2016,01121,Total Taxes,17587958
+0400000US18,18,Indiana,2016,011211,Property Taxes,10699
+0400000US18,18,Indiana,2016,011212,Sales and Gross Receipts Taxes,10608207
+0400000US18,18,Indiana,2016,0112121,General Sales and Gross Receipts Taxes,7306331
+0400000US18,18,Indiana,2016,0112122,Selective Sales and Gross Receipts Taxes,3301876
+0400000US18,18,Indiana,2016,01121221,Alcoholic Beverages Sales Tax,48310
+0400000US18,18,Indiana,2016,01121222,Amusements Sales Tax,578829
+0400000US18,18,Indiana,2016,01121223,Insurance Premiums Sales Tax,235024
+0400000US18,18,Indiana,2016,01121224,Motor Fuels Sales Tax,845384
+0400000US18,18,Indiana,2016,01121225,Pari-mutuels Sales Tax,1958
+0400000US18,18,Indiana,2016,01121226,Public Utilities Sales Tax,214976
+0400000US18,18,Indiana,2016,01121227,Tobacco Products Sales Tax,443210
+0400000US18,18,Indiana,2016,01121229,Other Selective Sales and Gross Receipts Taxes,934185
+0400000US18,18,Indiana,2016,0112123,License Taxes,714634
+0400000US18,18,Indiana,2016,01121231,Alcoholic Beverages License,12871
+0400000US18,18,Indiana,2016,01121232,Amusements License,5912
+0400000US18,18,Indiana,2016,01121233,Corporations in General License,7534
+0400000US18,18,Indiana,2016,01121234,Hunting and Fishing License,19362
+0400000US18,18,Indiana,2016,01121235,Motor Vehicle License,294209
+0400000US18,18,Indiana,2016,01121236,Motor Vehicle Operators License,237329
+0400000US18,18,Indiana,2016,01121237,Public Utilities License,X
+0400000US18,18,Indiana,2016,01121238,"Occupation and Business License, NEC",55437
+0400000US18,18,Indiana,2016,01121239,Other License Taxes,81980
+0400000US18,18,Indiana,2016,0112124,Income Taxes,6252533
+0400000US18,18,Indiana,2016,01121241,Individual Income Taxes,5218166
+0400000US18,18,Indiana,2016,01121242,Corporations Net Income Taxes,1034367
+0400000US18,18,Indiana,2016,0112125,Other Taxes,1885
+0400000US18,18,Indiana,2016,0112126,Death and Gift Taxes,872
+0400000US18,18,Indiana,2016,0112127,Documentarty and Stock Transfer Taxes,X
+0400000US18,18,Indiana,2016,0112128,Severance Taxes,1013
+0400000US18,18,Indiana,2016,0112129,"Taxes, NEC",X
+0400000US19,19,Iowa,2016,01121,Total Taxes,9558563
+0400000US19,19,Iowa,2016,011211,Property Taxes,1410
+0400000US19,19,Iowa,2016,011212,Sales and Gross Receipts Taxes,4591421
+0400000US19,19,Iowa,2016,0112121,General Sales and Gross Receipts Taxes,3162854
+0400000US19,19,Iowa,2016,0112122,Selective Sales and Gross Receipts Taxes,1428567
+0400000US19,19,Iowa,2016,01121221,Alcoholic Beverages Sales Tax,22423
+0400000US19,19,Iowa,2016,01121222,Amusements Sales Tax,298017
+0400000US19,19,Iowa,2016,01121223,Insurance Premiums Sales Tax,119571
+0400000US19,19,Iowa,2016,01121224,Motor Fuels Sales Tax,689693
+0400000US19,19,Iowa,2016,01121225,Pari-mutuels Sales Tax,3666
+0400000US19,19,Iowa,2016,01121226,Public Utilities Sales Tax,28700
+0400000US19,19,Iowa,2016,01121227,Tobacco Products Sales Tax,227901
+0400000US19,19,Iowa,2016,01121229,Other Selective Sales and Gross Receipts Taxes,38596
+0400000US19,19,Iowa,2016,0112123,License Taxes,925958
+0400000US19,19,Iowa,2016,01121231,Alcoholic Beverages License,15468
+0400000US19,19,Iowa,2016,01121232,Amusements License,33156
+0400000US19,19,Iowa,2016,01121233,Corporations in General License,46695
+0400000US19,19,Iowa,2016,01121234,Hunting and Fishing License,29246
+0400000US19,19,Iowa,2016,01121235,Motor Vehicle License,610762
+0400000US19,19,Iowa,2016,01121236,Motor Vehicle Operators License,16750
+0400000US19,19,Iowa,2016,01121237,Public Utilities License,12035
+0400000US19,19,Iowa,2016,01121238,"Occupation and Business License, NEC",153278
+0400000US19,19,Iowa,2016,01121239,Other License Taxes,8568
+0400000US19,19,Iowa,2016,0112124,Income Taxes,3930190
+0400000US19,19,Iowa,2016,01121241,Individual Income Taxes,3553325
+0400000US19,19,Iowa,2016,01121242,Corporations Net Income Taxes,376865
+0400000US19,19,Iowa,2016,0112125,Other Taxes,109584
+0400000US19,19,Iowa,2016,0112126,Death and Gift Taxes,88759
+0400000US19,19,Iowa,2016,0112127,Documentarty and Stock Transfer Taxes,20825
+0400000US19,19,Iowa,2016,0112128,Severance Taxes,X
+0400000US19,19,Iowa,2016,0112129,"Taxes, NEC",X
+0400000US20,20,Kansas,2016,01121,Total Taxes,8058949
+0400000US20,20,Kansas,2016,011211,Property Taxes,663841
+0400000US20,20,Kansas,2016,011212,Sales and Gross Receipts Taxes,4324953
+0400000US20,20,Kansas,2016,0112121,General Sales and Gross Receipts Taxes,3240354
+0400000US20,20,Kansas,2016,0112122,Selective Sales and Gross Receipts Taxes,1084599
+0400000US20,20,Kansas,2016,01121221,Alcoholic Beverages Sales Tax,133709
+0400000US20,20,Kansas,2016,01121222,Amusements Sales Tax,331
+0400000US20,20,Kansas,2016,01121223,Insurance Premiums Sales Tax,305631
+0400000US20,20,Kansas,2016,01121224,Motor Fuels Sales Tax,450633
+0400000US20,20,Kansas,2016,01121225,Pari-mutuels Sales Tax,X
+0400000US20,20,Kansas,2016,01121226,Public Utilities Sales Tax,406
+0400000US20,20,Kansas,2016,01121227,Tobacco Products Sales Tax,146552
+0400000US20,20,Kansas,2016,01121229,Other Selective Sales and Gross Receipts Taxes,47337
+0400000US20,20,Kansas,2016,0112123,License Taxes,396648
+0400000US20,20,Kansas,2016,01121231,Alcoholic Beverages License,3672
+0400000US20,20,Kansas,2016,01121232,Amusements License,6379
+0400000US20,20,Kansas,2016,01121233,Corporations in General License,27173
+0400000US20,20,Kansas,2016,01121234,Hunting and Fishing License,30568
+0400000US20,20,Kansas,2016,01121235,Motor Vehicle License,219463
+0400000US20,20,Kansas,2016,01121236,Motor Vehicle Operators License,20189
+0400000US20,20,Kansas,2016,01121237,Public Utilities License,4981
+0400000US20,20,Kansas,2016,01121238,"Occupation and Business License, NEC",81617
+0400000US20,20,Kansas,2016,01121239,Other License Taxes,2606
+0400000US20,20,Kansas,2016,0112124,Income Taxes,2623779
+0400000US20,20,Kansas,2016,01121241,Individual Income Taxes,2231902
+0400000US20,20,Kansas,2016,01121242,Corporations Net Income Taxes,391877
+0400000US20,20,Kansas,2016,0112125,Other Taxes,49728
+0400000US20,20,Kansas,2016,0112126,Death and Gift Taxes,1
+0400000US20,20,Kansas,2016,0112127,Documentarty and Stock Transfer Taxes,X
+0400000US20,20,Kansas,2016,0112128,Severance Taxes,49727
+0400000US20,20,Kansas,2016,0112129,"Taxes, NEC",X
+0400000US21,21,Kentucky,2016,01121,Total Taxes,11778866
+0400000US21,21,Kentucky,2016,011211,Property Taxes,577544
+0400000US21,21,Kentucky,2016,011212,Sales and Gross Receipts Taxes,5603120
+0400000US21,21,Kentucky,2016,0112121,General Sales and Gross Receipts Taxes,3462704
+0400000US21,21,Kentucky,2016,0112122,Selective Sales and Gross Receipts Taxes,2140416
+0400000US21,21,Kentucky,2016,01121221,Alcoholic Beverages Sales Tax,139248
+0400000US21,21,Kentucky,2016,01121222,Amusements Sales Tax,229
+0400000US21,21,Kentucky,2016,01121223,Insurance Premiums Sales Tax,145250
+0400000US21,21,Kentucky,2016,01121224,Motor Fuels Sales Tax,750034
+0400000US21,21,Kentucky,2016,01121225,Pari-mutuels Sales Tax,4993
+0400000US21,21,Kentucky,2016,01121226,Public Utilities Sales Tax,64681
+0400000US21,21,Kentucky,2016,01121227,Tobacco Products Sales Tax,245581
+0400000US21,21,Kentucky,2016,01121229,Other Selective Sales and Gross Receipts Taxes,790400
+0400000US21,21,Kentucky,2016,0112123,License Taxes,505377
+0400000US21,21,Kentucky,2016,01121231,Alcoholic Beverages License,6616
+0400000US21,21,Kentucky,2016,01121232,Amusements License,324
+0400000US21,21,Kentucky,2016,01121233,Corporations in General License,109321
+0400000US21,21,Kentucky,2016,01121234,Hunting and Fishing License,28455
+0400000US21,21,Kentucky,2016,01121235,Motor Vehicle License,207617
+0400000US21,21,Kentucky,2016,01121236,Motor Vehicle Operators License,16836
+0400000US21,21,Kentucky,2016,01121237,Public Utilities License,X
+0400000US21,21,Kentucky,2016,01121238,"Occupation and Business License, NEC",130826
+0400000US21,21,Kentucky,2016,01121239,Other License Taxes,5382
+0400000US21,21,Kentucky,2016,0112124,Income Taxes,4888920
+0400000US21,21,Kentucky,2016,01121241,Individual Income Taxes,4282080
+0400000US21,21,Kentucky,2016,01121242,Corporations Net Income Taxes,606840
+0400000US21,21,Kentucky,2016,0112125,Other Taxes,203905
+0400000US21,21,Kentucky,2016,0112126,Death and Gift Taxes,51247
+0400000US21,21,Kentucky,2016,0112127,Documentarty and Stock Transfer Taxes,3255
+0400000US21,21,Kentucky,2016,0112128,Severance Taxes,149403
+0400000US21,21,Kentucky,2016,0112129,"Taxes, NEC",X
+0400000US22,22,Louisiana,2016,01121,Total Taxes,9309673
+0400000US22,22,Louisiana,2016,011211,Property Taxes,62273
+0400000US22,22,Louisiana,2016,011212,Sales and Gross Receipts Taxes,5352907
+0400000US22,22,Louisiana,2016,0112121,General Sales and Gross Receipts Taxes,3186614
+0400000US22,22,Louisiana,2016,0112122,Selective Sales and Gross Receipts Taxes,2166293
+0400000US22,22,Louisiana,2016,01121221,Alcoholic Beverages Sales Tax,63356
+0400000US22,22,Louisiana,2016,01121222,Amusements Sales Tax,702573
+0400000US22,22,Louisiana,2016,01121223,Insurance Premiums Sales Tax,518906
+0400000US22,22,Louisiana,2016,01121224,Motor Fuels Sales Tax,622234
+0400000US22,22,Louisiana,2016,01121225,Pari-mutuels Sales Tax,4338
+0400000US22,22,Louisiana,2016,01121226,Public Utilities Sales Tax,8618
+0400000US22,22,Louisiana,2016,01121227,Tobacco Products Sales Tax,121200
+0400000US22,22,Louisiana,2016,01121229,Other Selective Sales and Gross Receipts Taxes,125068
+0400000US22,22,Louisiana,2016,0112123,License Taxes,400191
+0400000US22,22,Louisiana,2016,01121231,Alcoholic Beverages License,X
+0400000US22,22,Louisiana,2016,01121232,Amusements License,X
+0400000US22,22,Louisiana,2016,01121233,Corporations in General License,106104
+0400000US22,22,Louisiana,2016,01121234,Hunting and Fishing License,30789
+0400000US22,22,Louisiana,2016,01121235,Motor Vehicle License,133362
+0400000US22,22,Louisiana,2016,01121236,Motor Vehicle Operators License,14277
+0400000US22,22,Louisiana,2016,01121237,Public Utilities License,11678
+0400000US22,22,Louisiana,2016,01121238,"Occupation and Business License, NEC",99581
+0400000US22,22,Louisiana,2016,01121239,Other License Taxes,4400
+0400000US22,22,Louisiana,2016,0112124,Income Taxes,3038035
+0400000US22,22,Louisiana,2016,01121241,Individual Income Taxes,2866456
+0400000US22,22,Louisiana,2016,01121242,Corporations Net Income Taxes,171579
+0400000US22,22,Louisiana,2016,0112125,Other Taxes,456267
+0400000US22,22,Louisiana,2016,0112126,Death and Gift Taxes,0
+0400000US22,22,Louisiana,2016,0112127,Documentarty and Stock Transfer Taxes,X
+0400000US22,22,Louisiana,2016,0112128,Severance Taxes,456267
+0400000US22,22,Louisiana,2016,0112129,"Taxes, NEC",X
+0400000US23,23,Maine,2016,01121,Total Taxes,4130242
+0400000US23,23,Maine,2016,011211,Property Taxes,35425
+0400000US23,23,Maine,2016,011212,Sales and Gross Receipts Taxes,2077913
+0400000US23,23,Maine,2016,0112121,General Sales and Gross Receipts Taxes,1359190
+0400000US23,23,Maine,2016,0112122,Selective Sales and Gross Receipts Taxes,718723
+0400000US23,23,Maine,2016,01121221,Alcoholic Beverages Sales Tax,18741
+0400000US23,23,Maine,2016,01121222,Amusements Sales Tax,53255
+0400000US23,23,Maine,2016,01121223,Insurance Premiums Sales Tax,102528
+0400000US23,23,Maine,2016,01121224,Motor Fuels Sales Tax,245053
+0400000US23,23,Maine,2016,01121225,Pari-mutuels Sales Tax,1562
+0400000US23,23,Maine,2016,01121226,Public Utilities Sales Tax,21674
+0400000US23,23,Maine,2016,01121227,Tobacco Products Sales Tax,141464
+0400000US23,23,Maine,2016,01121229,Other Selective Sales and Gross Receipts Taxes,134446
+0400000US23,23,Maine,2016,0112123,License Taxes,272253
+0400000US23,23,Maine,2016,01121231,Alcoholic Beverages License,5445
+0400000US23,23,Maine,2016,01121232,Amusements License,590
+0400000US23,23,Maine,2016,01121233,Corporations in General License,10100
+0400000US23,23,Maine,2016,01121234,Hunting and Fishing License,16731
+0400000US23,23,Maine,2016,01121235,Motor Vehicle License,108845
+0400000US23,23,Maine,2016,01121236,Motor Vehicle Operators License,10935
+0400000US23,23,Maine,2016,01121237,Public Utilities License,X
+0400000US23,23,Maine,2016,01121238,"Occupation and Business License, NEC",110986
+0400000US23,23,Maine,2016,01121239,Other License Taxes,8621
+0400000US23,23,Maine,2016,0112124,Income Taxes,1689129
+0400000US23,23,Maine,2016,01121241,Individual Income Taxes,1551637
+0400000US23,23,Maine,2016,01121242,Corporations Net Income Taxes,137492
+0400000US23,23,Maine,2016,0112125,Other Taxes,55522
+0400000US23,23,Maine,2016,0112126,Death and Gift Taxes,27198
+0400000US23,23,Maine,2016,0112127,Documentarty and Stock Transfer Taxes,28324
+0400000US23,23,Maine,2016,0112128,Severance Taxes,X
+0400000US23,23,Maine,2016,0112129,"Taxes, NEC",X
+0400000US24,24,Maryland,2016,01121,Total Taxes,20894199
+0400000US24,24,Maryland,2016,011211,Property Taxes,748389
+0400000US24,24,Maryland,2016,011212,Sales and Gross Receipts Taxes,8939430
+0400000US24,24,Maryland,2016,0112121,General Sales and Gross Receipts Taxes,4504242
+0400000US24,24,Maryland,2016,0112122,Selective Sales and Gross Receipts Taxes,4435188
+0400000US24,24,Maryland,2016,01121221,Alcoholic Beverages Sales Tax,31627
+0400000US24,24,Maryland,2016,01121222,Amusements Sales Tax,650293
+0400000US24,24,Maryland,2016,01121223,Insurance Premiums Sales Tax,552526
+0400000US24,24,Maryland,2016,01121224,Motor Fuels Sales Tax,1017769
+0400000US24,24,Maryland,2016,01121225,Pari-mutuels Sales Tax,1173
+0400000US24,24,Maryland,2016,01121226,Public Utilities Sales Tax,137537
+0400000US24,24,Maryland,2016,01121227,Tobacco Products Sales Tax,395266
+0400000US24,24,Maryland,2016,01121229,Other Selective Sales and Gross Receipts Taxes,1648997
+0400000US24,24,Maryland,2016,0112123,License Taxes,884363
+0400000US24,24,Maryland,2016,01121231,Alcoholic Beverages License,1446
+0400000US24,24,Maryland,2016,01121232,Amusements License,1415
+0400000US24,24,Maryland,2016,01121233,Corporations in General License,103860
+0400000US24,24,Maryland,2016,01121234,Hunting and Fishing License,17883
+0400000US24,24,Maryland,2016,01121235,Motor Vehicle License,492753
+0400000US24,24,Maryland,2016,01121236,Motor Vehicle Operators License,36597
+0400000US24,24,Maryland,2016,01121237,Public Utilities License,X
+0400000US24,24,Maryland,2016,01121238,"Occupation and Business License, NEC",228582
+0400000US24,24,Maryland,2016,01121239,Other License Taxes,1827
+0400000US24,24,Maryland,2016,0112124,Income Taxes,9646537
+0400000US24,24,Maryland,2016,01121241,Individual Income Taxes,8517529
+0400000US24,24,Maryland,2016,01121242,Corporations Net Income Taxes,1129008
+0400000US24,24,Maryland,2016,0112125,Other Taxes,675480
+0400000US24,24,Maryland,2016,0112126,Death and Gift Taxes,261922
+0400000US24,24,Maryland,2016,0112127,Documentarty and Stock Transfer Taxes,200858
+0400000US24,24,Maryland,2016,0112128,Severance Taxes,X
+0400000US24,24,Maryland,2016,0112129,"Taxes, NEC",212700
+0400000US25,25,Massachusetts,2016,01121,Total Taxes,27283005
+0400000US25,25,Massachusetts,2016,011211,Property Taxes,5818
+0400000US25,25,Massachusetts,2016,011212,Sales and Gross Receipts Taxes,8683866
+0400000US25,25,Massachusetts,2016,0112121,General Sales and Gross Receipts Taxes,6089860
+0400000US25,25,Massachusetts,2016,0112122,Selective Sales and Gross Receipts Taxes,2594006
+0400000US25,25,Massachusetts,2016,01121221,Alcoholic Beverages Sales Tax,83395
+0400000US25,25,Massachusetts,2016,01121222,Amusements Sales Tax,66844
+0400000US25,25,Massachusetts,2016,01121223,Insurance Premiums Sales Tax,406796
+0400000US25,25,Massachusetts,2016,01121224,Motor Fuels Sales Tax,766553
+0400000US25,25,Massachusetts,2016,01121225,Pari-mutuels Sales Tax,1326
+0400000US25,25,Massachusetts,2016,01121226,Public Utilities Sales Tax,24929
+0400000US25,25,Massachusetts,2016,01121227,Tobacco Products Sales Tax,640839
+0400000US25,25,Massachusetts,2016,01121229,Other Selective Sales and Gross Receipts Taxes,603324
+0400000US25,25,Massachusetts,2016,0112123,License Taxes,1122219
+0400000US25,25,Massachusetts,2016,01121231,Alcoholic Beverages License,3450
+0400000US25,25,Massachusetts,2016,01121232,Amusements License,14916
+0400000US25,25,Massachusetts,2016,01121233,Corporations in General License,26922
+0400000US25,25,Massachusetts,2016,01121234,Hunting and Fishing License,5532
+0400000US25,25,Massachusetts,2016,01121235,Motor Vehicle License,464428
+0400000US25,25,Massachusetts,2016,01121236,Motor Vehicle Operators License,99051
+0400000US25,25,Massachusetts,2016,01121237,Public Utilities License,X
+0400000US25,25,Massachusetts,2016,01121238,"Occupation and Business License, NEC",324481
+0400000US25,25,Massachusetts,2016,01121239,Other License Taxes,183439
+0400000US25,25,Massachusetts,2016,0112124,Income Taxes,16764223
+0400000US25,25,Massachusetts,2016,01121241,Individual Income Taxes,14430331
+0400000US25,25,Massachusetts,2016,01121242,Corporations Net Income Taxes,2333892
+0400000US25,25,Massachusetts,2016,0112125,Other Taxes,706879
+0400000US25,25,Massachusetts,2016,0112126,Death and Gift Taxes,399429
+0400000US25,25,Massachusetts,2016,0112127,Documentarty and Stock Transfer Taxes,307450
+0400000US25,25,Massachusetts,2016,0112128,Severance Taxes,X
+0400000US25,25,Massachusetts,2016,0112129,"Taxes, NEC",0
+0400000US26,26,Michigan,2016,01121,Total Taxes,27436607
+0400000US26,26,Michigan,2016,011211,Property Taxes,2034013
+0400000US26,26,Michigan,2016,011212,Sales and Gross Receipts Taxes,13239133
+0400000US26,26,Michigan,2016,0112121,General Sales and Gross Receipts Taxes,9163542
+0400000US26,26,Michigan,2016,0112122,Selective Sales and Gross Receipts Taxes,4075591
+0400000US26,26,Michigan,2016,01121221,Alcoholic Beverages Sales Tax,157242
+0400000US26,26,Michigan,2016,01121222,Amusements Sales Tax,111618
+0400000US26,26,Michigan,2016,01121223,Insurance Premiums Sales Tax,328138
+0400000US26,26,Michigan,2016,01121224,Motor Fuels Sales Tax,1028780
+0400000US26,26,Michigan,2016,01121225,Pari-mutuels Sales Tax,3878
+0400000US26,26,Michigan,2016,01121226,Public Utilities Sales Tax,28208
+0400000US26,26,Michigan,2016,01121227,Tobacco Products Sales Tax,947194
+0400000US26,26,Michigan,2016,01121229,Other Selective Sales and Gross Receipts Taxes,1470533
+0400000US26,26,Michigan,2016,0112123,License Taxes,1660663
+0400000US26,26,Michigan,2016,01121231,Alcoholic Beverages License,17469
+0400000US26,26,Michigan,2016,01121232,Amusements License,X
+0400000US26,26,Michigan,2016,01121233,Corporations in General License,23703
+0400000US26,26,Michigan,2016,01121234,Hunting and Fishing License,64214
+0400000US26,26,Michigan,2016,01121235,Motor Vehicle License,1070548
+0400000US26,26,Michigan,2016,01121236,Motor Vehicle Operators License,59478
+0400000US26,26,Michigan,2016,01121237,Public Utilities License,33857
+0400000US26,26,Michigan,2016,01121238,"Occupation and Business License, NEC",162626
+0400000US26,26,Michigan,2016,01121239,Other License Taxes,228768
+0400000US26,26,Michigan,2016,0112124,Income Taxes,10202060
+0400000US26,26,Michigan,2016,01121241,Individual Income Taxes,9303847
+0400000US26,26,Michigan,2016,01121242,Corporations Net Income Taxes,898213
+0400000US26,26,Michigan,2016,0112125,Other Taxes,300738
+0400000US26,26,Michigan,2016,0112126,Death and Gift Taxes,23
+0400000US26,26,Michigan,2016,0112127,Documentarty and Stock Transfer Taxes,277149
+0400000US26,26,Michigan,2016,0112128,Severance Taxes,23565
+0400000US26,26,Michigan,2016,0112129,"Taxes, NEC",1
+0400000US27,27,Minnesota,2016,01121,Total Taxes,25189128
+0400000US27,27,Minnesota,2016,011211,Property Taxes,849824
+0400000US27,27,Minnesota,2016,011212,Sales and Gross Receipts Taxes,10120647
+0400000US27,27,Minnesota,2016,0112121,General Sales and Gross Receipts Taxes,5583910
+0400000US27,27,Minnesota,2016,0112122,Selective Sales and Gross Receipts Taxes,4536737
+0400000US27,27,Minnesota,2016,01121221,Alcoholic Beverages Sales Tax,88352
+0400000US27,27,Minnesota,2016,01121222,Amusements Sales Tax,56310
+0400000US27,27,Minnesota,2016,01121223,Insurance Premiums Sales Tax,457876
+0400000US27,27,Minnesota,2016,01121224,Motor Fuels Sales Tax,901156
+0400000US27,27,Minnesota,2016,01121225,Pari-mutuels Sales Tax,522
+0400000US27,27,Minnesota,2016,01121226,Public Utilities Sales Tax,54
+0400000US27,27,Minnesota,2016,01121227,Tobacco Products Sales Tax,650042
+0400000US27,27,Minnesota,2016,01121229,Other Selective Sales and Gross Receipts Taxes,2382425
+0400000US27,27,Minnesota,2016,0112123,License Taxes,1426235
+0400000US27,27,Minnesota,2016,01121231,Alcoholic Beverages License,2580
+0400000US27,27,Minnesota,2016,01121232,Amusements License,1161
+0400000US27,27,Minnesota,2016,01121233,Corporations in General License,8201
+0400000US27,27,Minnesota,2016,01121234,Hunting and Fishing License,64581
+0400000US27,27,Minnesota,2016,01121235,Motor Vehicle License,741938
+0400000US27,27,Minnesota,2016,01121236,Motor Vehicle Operators License,47452
+0400000US27,27,Minnesota,2016,01121237,Public Utilities License,934
+0400000US27,27,Minnesota,2016,01121238,"Occupation and Business License, NEC",499122
+0400000US27,27,Minnesota,2016,01121239,Other License Taxes,60266
+0400000US27,27,Minnesota,2016,0112124,Income Taxes,12248267
+0400000US27,27,Minnesota,2016,01121241,Individual Income Taxes,10732570
+0400000US27,27,Minnesota,2016,01121242,Corporations Net Income Taxes,1515697
+0400000US27,27,Minnesota,2016,0112125,Other Taxes,544155
+0400000US27,27,Minnesota,2016,0112126,Death and Gift Taxes,182499
+0400000US27,27,Minnesota,2016,0112127,Documentarty and Stock Transfer Taxes,226485
+0400000US27,27,Minnesota,2016,0112128,Severance Taxes,49711
+0400000US27,27,Minnesota,2016,0112129,"Taxes, NEC",85460
+0400000US28,28,Mississippi,2016,01121,Total Taxes,7660391
+0400000US28,28,Mississippi,2016,011211,Property Taxes,26725
+0400000US28,28,Mississippi,2016,011212,Sales and Gross Receipts Taxes,4777794
+0400000US28,28,Mississippi,2016,0112121,General Sales and Gross Receipts Taxes,3297760
+0400000US28,28,Mississippi,2016,0112122,Selective Sales and Gross Receipts Taxes,1480034
+0400000US28,28,Mississippi,2016,01121221,Alcoholic Beverages Sales Tax,42352
+0400000US28,28,Mississippi,2016,01121222,Amusements Sales Tax,133847
+0400000US28,28,Mississippi,2016,01121223,Insurance Premiums Sales Tax,317659
+0400000US28,28,Mississippi,2016,01121224,Motor Fuels Sales Tax,443578
+0400000US28,28,Mississippi,2016,01121225,Pari-mutuels Sales Tax,X
+0400000US28,28,Mississippi,2016,01121226,Public Utilities Sales Tax,1602
+0400000US28,28,Mississippi,2016,01121227,Tobacco Products Sales Tax,145931
+0400000US28,28,Mississippi,2016,01121229,Other Selective Sales and Gross Receipts Taxes,395065
+0400000US28,28,Mississippi,2016,0112123,License Taxes,553510
+0400000US28,28,Mississippi,2016,01121231,Alcoholic Beverages License,1306
+0400000US28,28,Mississippi,2016,01121232,Amusements License,35337
+0400000US28,28,Mississippi,2016,01121233,Corporations in General License,144283
+0400000US28,28,Mississippi,2016,01121234,Hunting and Fishing License,2731
+0400000US28,28,Mississippi,2016,01121235,Motor Vehicle License,158029
+0400000US28,28,Mississippi,2016,01121236,Motor Vehicle Operators License,15272
+0400000US28,28,Mississippi,2016,01121237,Public Utilities License,7292
+0400000US28,28,Mississippi,2016,01121238,"Occupation and Business License, NEC",129892
+0400000US28,28,Mississippi,2016,01121239,Other License Taxes,59368
+0400000US28,28,Mississippi,2016,0112124,Income Taxes,2263164
+0400000US28,28,Mississippi,2016,01121241,Individual Income Taxes,1800053
+0400000US28,28,Mississippi,2016,01121242,Corporations Net Income Taxes,463111
+0400000US28,28,Mississippi,2016,0112125,Other Taxes,39198
+0400000US28,28,Mississippi,2016,0112126,Death and Gift Taxes,4
+0400000US28,28,Mississippi,2016,0112127,Documentarty and Stock Transfer Taxes,X
+0400000US28,28,Mississippi,2016,0112128,Severance Taxes,39194
+0400000US28,28,Mississippi,2016,0112129,"Taxes, NEC",0
+0400000US29,29,Missouri,2016,01121,Total Taxes,12245169
+0400000US29,29,Missouri,2016,011211,Property Taxes,30892
+0400000US29,29,Missouri,2016,011212,Sales and Gross Receipts Taxes,5302264
+0400000US29,29,Missouri,2016,0112121,General Sales and Gross Receipts Taxes,3536396
+0400000US29,29,Missouri,2016,0112122,Selective Sales and Gross Receipts Taxes,1765868
+0400000US29,29,Missouri,2016,01121221,Alcoholic Beverages Sales Tax,36849
+0400000US29,29,Missouri,2016,01121222,Amusements Sales Tax,367814
+0400000US29,29,Missouri,2016,01121223,Insurance Premiums Sales Tax,400734
+0400000US29,29,Missouri,2016,01121224,Motor Fuels Sales Tax,717178
+0400000US29,29,Missouri,2016,01121225,Pari-mutuels Sales Tax,X
+0400000US29,29,Missouri,2016,01121226,Public Utilities Sales Tax,X
+0400000US29,29,Missouri,2016,01121227,Tobacco Products Sales Tax,101944
+0400000US29,29,Missouri,2016,01121229,Other Selective Sales and Gross Receipts Taxes,141349
+0400000US29,29,Missouri,2016,0112123,License Taxes,547326
+0400000US29,29,Missouri,2016,01121231,Alcoholic Beverages License,5359
+0400000US29,29,Missouri,2016,01121232,Amusements License,1799
+0400000US29,29,Missouri,2016,01121233,Corporations in General License,13430
+0400000US29,29,Missouri,2016,01121234,Hunting and Fishing License,34369
+0400000US29,29,Missouri,2016,01121235,Motor Vehicle License,289124
+0400000US29,29,Missouri,2016,01121236,Motor Vehicle Operators License,17356
+0400000US29,29,Missouri,2016,01121237,Public Utilities License,19842
+0400000US29,29,Missouri,2016,01121238,"Occupation and Business License, NEC",143496
+0400000US29,29,Missouri,2016,01121239,Other License Taxes,22551
+0400000US29,29,Missouri,2016,0112124,Income Taxes,6352437
+0400000US29,29,Missouri,2016,01121241,Individual Income Taxes,6023701
+0400000US29,29,Missouri,2016,01121242,Corporations Net Income Taxes,328736
+0400000US29,29,Missouri,2016,0112125,Other Taxes,12250
+0400000US29,29,Missouri,2016,0112126,Death and Gift Taxes,56
+0400000US29,29,Missouri,2016,0112127,Documentarty and Stock Transfer Taxes,12102
+0400000US29,29,Missouri,2016,0112128,Severance Taxes,9
+0400000US29,29,Missouri,2016,0112129,"Taxes, NEC",83
+0400000US30,30,Montana,2016,01121,Total Taxes,2627943
+0400000US30,30,Montana,2016,011211,Property Taxes,278497
+0400000US30,30,Montana,2016,011212,Sales and Gross Receipts Taxes,562474
+0400000US30,30,Montana,2016,0112121,General Sales and Gross Receipts Taxes,X
+0400000US30,30,Montana,2016,0112122,Selective Sales and Gross Receipts Taxes,562474
+0400000US30,30,Montana,2016,01121221,Alcoholic Beverages Sales Tax,31907
+0400000US30,30,Montana,2016,01121222,Amusements Sales Tax,60392
+0400000US30,30,Montana,2016,01121223,Insurance Premiums Sales Tax,98463
+0400000US30,30,Montana,2016,01121224,Motor Fuels Sales Tax,186083
+0400000US30,30,Montana,2016,01121225,Pari-mutuels Sales Tax,44
+0400000US30,30,Montana,2016,01121226,Public Utilities Sales Tax,43995
+0400000US30,30,Montana,2016,01121227,Tobacco Products Sales Tax,86289
+0400000US30,30,Montana,2016,01121229,Other Selective Sales and Gross Receipts Taxes,55301
+0400000US30,30,Montana,2016,0112123,License Taxes,319020
+0400000US30,30,Montana,2016,01121231,Alcoholic Beverages License,3374
+0400000US30,30,Montana,2016,01121232,Amusements License,7576
+0400000US30,30,Montana,2016,01121233,Corporations in General License,4282
+0400000US30,30,Montana,2016,01121234,Hunting and Fishing License,32517
+0400000US30,30,Montana,2016,01121235,Motor Vehicle License,144973
+0400000US30,30,Montana,2016,01121236,Motor Vehicle Operators License,8573
+0400000US30,30,Montana,2016,01121237,Public Utilities License,12
+0400000US30,30,Montana,2016,01121238,"Occupation and Business License, NEC",107039
+0400000US30,30,Montana,2016,01121239,Other License Taxes,10674
+0400000US30,30,Montana,2016,0112124,Income Taxes,1300011
+0400000US30,30,Montana,2016,01121241,Individual Income Taxes,1181042
+0400000US30,30,Montana,2016,01121242,Corporations Net Income Taxes,118969
+0400000US30,30,Montana,2016,0112125,Other Taxes,167941
+0400000US30,30,Montana,2016,0112126,Death and Gift Taxes,X
+0400000US30,30,Montana,2016,0112127,Documentarty and Stock Transfer Taxes,X
+0400000US30,30,Montana,2016,0112128,Severance Taxes,164373
+0400000US30,30,Montana,2016,0112129,"Taxes, NEC",3568
+0400000US31,31,Nebraska,2016,01121,Total Taxes,5117133
+0400000US31,31,Nebraska,2016,011211,Property Taxes,123
+0400000US31,31,Nebraska,2016,011212,Sales and Gross Receipts Taxes,2362718
+0400000US31,31,Nebraska,2016,0112121,General Sales and Gross Receipts Taxes,1783498
+0400000US31,31,Nebraska,2016,0112122,Selective Sales and Gross Receipts Taxes,579220
+0400000US31,31,Nebraska,2016,01121221,Alcoholic Beverages Sales Tax,30520
+0400000US31,31,Nebraska,2016,01121222,Amusements Sales Tax,5800
+0400000US31,31,Nebraska,2016,01121223,Insurance Premiums Sales Tax,65465
+0400000US31,31,Nebraska,2016,01121224,Motor Fuels Sales Tax,342004
+0400000US31,31,Nebraska,2016,01121225,Pari-mutuels Sales Tax,160
+0400000US31,31,Nebraska,2016,01121226,Public Utilities Sales Tax,49288
+0400000US31,31,Nebraska,2016,01121227,Tobacco Products Sales Tax,61258
+0400000US31,31,Nebraska,2016,01121229,Other Selective Sales and Gross Receipts Taxes,24725
+0400000US31,31,Nebraska,2016,0112123,License Taxes,185082
+0400000US31,31,Nebraska,2016,01121231,Alcoholic Beverages License,648
+0400000US31,31,Nebraska,2016,01121232,Amusements License,1589
+0400000US31,31,Nebraska,2016,01121233,Corporations in General License,16213
+0400000US31,31,Nebraska,2016,01121234,Hunting and Fishing License,14608
+0400000US31,31,Nebraska,2016,01121235,Motor Vehicle License,104287
+0400000US31,31,Nebraska,2016,01121236,Motor Vehicle Operators License,10838
+0400000US31,31,Nebraska,2016,01121237,Public Utilities License,X
+0400000US31,31,Nebraska,2016,01121238,"Occupation and Business License, NEC",35843
+0400000US31,31,Nebraska,2016,01121239,Other License Taxes,1056
+0400000US31,31,Nebraska,2016,0112124,Income Taxes,2552391
+0400000US31,31,Nebraska,2016,01121241,Individual Income Taxes,2244719
+0400000US31,31,Nebraska,2016,01121242,Corporations Net Income Taxes,307672
+0400000US31,31,Nebraska,2016,0112125,Other Taxes,16819
+0400000US31,31,Nebraska,2016,0112126,Death and Gift Taxes,X
+0400000US31,31,Nebraska,2016,0112127,Documentarty and Stock Transfer Taxes,14292
+0400000US31,31,Nebraska,2016,0112128,Severance Taxes,2527
+0400000US31,31,Nebraska,2016,0112129,"Taxes, NEC",X
+0400000US32,32,Nevada,2016,01121,Total Taxes,8025046
+0400000US32,32,Nevada,2016,011211,Property Taxes,280055
+0400000US32,32,Nevada,2016,011212,Sales and Gross Receipts Taxes,6347777
+0400000US32,32,Nevada,2016,0112121,General Sales and Gross Receipts Taxes,4266267
+0400000US32,32,Nevada,2016,0112122,Selective Sales and Gross Receipts Taxes,2081510
+0400000US32,32,Nevada,2016,01121221,Alcoholic Beverages Sales Tax,45098
+0400000US32,32,Nevada,2016,01121222,Amusements Sales Tax,930045
+0400000US32,32,Nevada,2016,01121223,Insurance Premiums Sales Tax,310223
+0400000US32,32,Nevada,2016,01121224,Motor Fuels Sales Tax,315897
+0400000US32,32,Nevada,2016,01121225,Pari-mutuels Sales Tax,3
+0400000US32,32,Nevada,2016,01121226,Public Utilities Sales Tax,23357
+0400000US32,32,Nevada,2016,01121227,Tobacco Products Sales Tax,174663
+0400000US32,32,Nevada,2016,01121229,Other Selective Sales and Gross Receipts Taxes,282224
+0400000US32,32,Nevada,2016,0112123,License Taxes,651067
+0400000US32,32,Nevada,2016,01121231,Alcoholic Beverages License,X
+0400000US32,32,Nevada,2016,01121232,Amusements License,88907
+0400000US32,32,Nevada,2016,01121233,Corporations in General License,75726
+0400000US32,32,Nevada,2016,01121234,Hunting and Fishing License,12817
+0400000US32,32,Nevada,2016,01121235,Motor Vehicle License,196610
+0400000US32,32,Nevada,2016,01121236,Motor Vehicle Operators License,30859
+0400000US32,32,Nevada,2016,01121237,Public Utilities License,X
+0400000US32,32,Nevada,2016,01121238,"Occupation and Business License, NEC",242794
+0400000US32,32,Nevada,2016,01121239,Other License Taxes,3354
+0400000US32,32,Nevada,2016,0112124,Income Taxes,X
+0400000US32,32,Nevada,2016,01121241,Individual Income Taxes,X
+0400000US32,32,Nevada,2016,01121242,Corporations Net Income Taxes,X
+0400000US32,32,Nevada,2016,0112125,Other Taxes,746147
+0400000US32,32,Nevada,2016,0112126,Death and Gift Taxes,0
+0400000US32,32,Nevada,2016,0112127,Documentarty and Stock Transfer Taxes,81683
+0400000US32,32,Nevada,2016,0112128,Severance Taxes,102686
+0400000US32,32,Nevada,2016,0112129,"Taxes, NEC",561778
+0400000US33,33,New Hampshire,2016,01121,Total Taxes,2641946
+0400000US33,33,New Hampshire,2016,011211,Property Taxes,406394
+0400000US33,33,New Hampshire,2016,011212,Sales and Gross Receipts Taxes,982832
+0400000US33,33,New Hampshire,2016,0112121,General Sales and Gross Receipts Taxes,X
+0400000US33,33,New Hampshire,2016,0112122,Selective Sales and Gross Receipts Taxes,982832
+0400000US33,33,New Hampshire,2016,01121221,Alcoholic Beverages Sales Tax,12850
+0400000US33,33,New Hampshire,2016,01121222,Amusements Sales Tax,427
+0400000US33,33,New Hampshire,2016,01121223,Insurance Premiums Sales Tax,113473
+0400000US33,33,New Hampshire,2016,01121224,Motor Fuels Sales Tax,144930
+0400000US33,33,New Hampshire,2016,01121225,Pari-mutuels Sales Tax,922
+0400000US33,33,New Hampshire,2016,01121226,Public Utilities Sales Tax,58206
+0400000US33,33,New Hampshire,2016,01121227,Tobacco Products Sales Tax,226482
+0400000US33,33,New Hampshire,2016,01121229,Other Selective Sales and Gross Receipts Taxes,425542
+0400000US33,33,New Hampshire,2016,0112123,License Taxes,329549
+0400000US33,33,New Hampshire,2016,01121231,Alcoholic Beverages License,18056
+0400000US33,33,New Hampshire,2016,01121232,Amusements License,288
+0400000US33,33,New Hampshire,2016,01121233,Corporations in General License,59010
+0400000US33,33,New Hampshire,2016,01121234,Hunting and Fishing License,11742
+0400000US33,33,New Hampshire,2016,01121235,Motor Vehicle License,116127
+0400000US33,33,New Hampshire,2016,01121236,Motor Vehicle Operators License,5849
+0400000US33,33,New Hampshire,2016,01121237,Public Utilities License,16989
+0400000US33,33,New Hampshire,2016,01121238,"Occupation and Business License, NEC",100049
+0400000US33,33,New Hampshire,2016,01121239,Other License Taxes,1439
+0400000US33,33,New Hampshire,2016,0112124,Income Taxes,788210
+0400000US33,33,New Hampshire,2016,01121241,Individual Income Taxes,87973
+0400000US33,33,New Hampshire,2016,01121242,Corporations Net Income Taxes,700237
+0400000US33,33,New Hampshire,2016,0112125,Other Taxes,134961
+0400000US33,33,New Hampshire,2016,0112126,Death and Gift Taxes,X
+0400000US33,33,New Hampshire,2016,0112127,Documentarty and Stock Transfer Taxes,134961
+0400000US33,33,New Hampshire,2016,0112128,Severance Taxes,X
+0400000US33,33,New Hampshire,2016,0112129,"Taxes, NEC",X
+0400000US34,34,New Jersey,2016,01121,Total Taxes,31546720
+0400000US34,34,New Jersey,2016,011211,Property Taxes,4638
+0400000US34,34,New Jersey,2016,011212,Sales and Gross Receipts Taxes,13173332
+0400000US34,34,New Jersey,2016,0112121,General Sales and Gross Receipts Taxes,9267703
+0400000US34,34,New Jersey,2016,0112122,Selective Sales and Gross Receipts Taxes,3905629
+0400000US34,34,New Jersey,2016,01121221,Alcoholic Beverages Sales Tax,138799
+0400000US34,34,New Jersey,2016,01121222,Amusements Sales Tax,209417
+0400000US34,34,New Jersey,2016,01121223,Insurance Premiums Sales Tax,605447
+0400000US34,34,New Jersey,2016,01121224,Motor Fuels Sales Tax,554473
+0400000US34,34,New Jersey,2016,01121225,Pari-mutuels Sales Tax,X
+0400000US34,34,New Jersey,2016,01121226,Public Utilities Sales Tax,964738
+0400000US34,34,New Jersey,2016,01121227,Tobacco Products Sales Tax,677216
+0400000US34,34,New Jersey,2016,01121229,Other Selective Sales and Gross Receipts Taxes,755539
+0400000US34,34,New Jersey,2016,0112123,License Taxes,1499889
+0400000US34,34,New Jersey,2016,01121231,Alcoholic Beverages License,4199
+0400000US34,34,New Jersey,2016,01121232,Amusements License,42181
+0400000US34,34,New Jersey,2016,01121233,Corporations in General License,247721
+0400000US34,34,New Jersey,2016,01121234,Hunting and Fishing License,14062
+0400000US34,34,New Jersey,2016,01121235,Motor Vehicle License,642537
+0400000US34,34,New Jersey,2016,01121236,Motor Vehicle Operators License,55873
+0400000US34,34,New Jersey,2016,01121237,Public Utilities License,6961
+0400000US34,34,New Jersey,2016,01121238,"Occupation and Business License, NEC",485336
+0400000US34,34,New Jersey,2016,01121239,Other License Taxes,1019
+0400000US34,34,New Jersey,2016,0112124,Income Taxes,15585479
+0400000US34,34,New Jersey,2016,01121241,Individual Income Taxes,13355992
+0400000US34,34,New Jersey,2016,01121242,Corporations Net Income Taxes,2229487
+0400000US34,34,New Jersey,2016,0112125,Other Taxes,1283382
+0400000US34,34,New Jersey,2016,0112126,Death and Gift Taxes,769688
+0400000US34,34,New Jersey,2016,0112127,Documentarty and Stock Transfer Taxes,513694
+0400000US34,34,New Jersey,2016,0112128,Severance Taxes,X
+0400000US34,34,New Jersey,2016,0112129,"Taxes, NEC",X
+0400000US35,35,New Mexico,2016,01121,Total Taxes,5462107
+0400000US35,35,New Mexico,2016,011211,Property Taxes,106524
+0400000US35,35,New Mexico,2016,011212,Sales and Gross Receipts Taxes,2930004
+0400000US35,35,New Mexico,2016,0112121,General Sales and Gross Receipts Taxes,2085366
+0400000US35,35,New Mexico,2016,0112122,Selective Sales and Gross Receipts Taxes,844638
+0400000US35,35,New Mexico,2016,01121221,Alcoholic Beverages Sales Tax,37084
+0400000US35,35,New Mexico,2016,01121222,Amusements Sales Tax,73000
+0400000US35,35,New Mexico,2016,01121223,Insurance Premiums Sales Tax,214688
+0400000US35,35,New Mexico,2016,01121224,Motor Fuels Sales Tax,245447
+0400000US35,35,New Mexico,2016,01121225,Pari-mutuels Sales Tax,1298
+0400000US35,35,New Mexico,2016,01121226,Public Utilities Sales Tax,29552
+0400000US35,35,New Mexico,2016,01121227,Tobacco Products Sales Tax,82826
+0400000US35,35,New Mexico,2016,01121229,Other Selective Sales and Gross Receipts Taxes,160743
+0400000US35,35,New Mexico,2016,0112123,License Taxes,342527
+0400000US35,35,New Mexico,2016,01121231,Alcoholic Beverages License,X
+0400000US35,35,New Mexico,2016,01121232,Amusements License,653
+0400000US35,35,New Mexico,2016,01121233,Corporations in General License,25706
+0400000US35,35,New Mexico,2016,01121234,Hunting and Fishing License,25738
+0400000US35,35,New Mexico,2016,01121235,Motor Vehicle License,234806
+0400000US35,35,New Mexico,2016,01121236,Motor Vehicle Operators License,12325
+0400000US35,35,New Mexico,2016,01121237,Public Utilities License,1720
+0400000US35,35,New Mexico,2016,01121238,"Occupation and Business License, NEC",41579
+0400000US35,35,New Mexico,2016,01121239,Other License Taxes,X
+0400000US35,35,New Mexico,2016,0112124,Income Taxes,1523753
+0400000US35,35,New Mexico,2016,01121241,Individual Income Taxes,1409811
+0400000US35,35,New Mexico,2016,01121242,Corporations Net Income Taxes,113942
+0400000US35,35,New Mexico,2016,0112125,Other Taxes,559299
+0400000US35,35,New Mexico,2016,0112126,Death and Gift Taxes,1
+0400000US35,35,New Mexico,2016,0112127,Documentarty and Stock Transfer Taxes,X
+0400000US35,35,New Mexico,2016,0112128,Severance Taxes,559296
+0400000US35,35,New Mexico,2016,0112129,"Taxes, NEC",2
+0400000US36,36,New York,2016,01121,Total Taxes,81353963
+0400000US36,36,New York,2016,011211,Property Taxes,X
+0400000US36,36,New York,2016,011212,Sales and Gross Receipts Taxes,24790017
+0400000US36,36,New York,2016,0112121,General Sales and Gross Receipts Taxes,13534170
+0400000US36,36,New York,2016,0112122,Selective Sales and Gross Receipts Taxes,11255847
+0400000US36,36,New York,2016,01121221,Alcoholic Beverages Sales Tax,299931
+0400000US36,36,New York,2016,01121222,Amusements Sales Tax,1231
+0400000US36,36,New York,2016,01121223,Insurance Premiums Sales Tax,1539422
+0400000US36,36,New York,2016,01121224,Motor Fuels Sales Tax,1612425
+0400000US36,36,New York,2016,01121225,Pari-mutuels Sales Tax,19778
+0400000US36,36,New York,2016,01121226,Public Utilities Sales Tax,914309
+0400000US36,36,New York,2016,01121227,Tobacco Products Sales Tax,1247078
+0400000US36,36,New York,2016,01121229,Other Selective Sales and Gross Receipts Taxes,5621673
+0400000US36,36,New York,2016,0112123,License Taxes,1794987
+0400000US36,36,New York,2016,01121231,Alcoholic Beverages License,61706
+0400000US36,36,New York,2016,01121232,Amusements License,0
+0400000US36,36,New York,2016,01121233,Corporations in General License,24047
+0400000US36,36,New York,2016,01121234,Hunting and Fishing License,45234
+0400000US36,36,New York,2016,01121235,Motor Vehicle License,1357552
+0400000US36,36,New York,2016,01121236,Motor Vehicle Operators License,158562
+0400000US36,36,New York,2016,01121237,Public Utilities License,19380
+0400000US36,36,New York,2016,01121238,"Occupation and Business License, NEC",127046
+0400000US36,36,New York,2016,01121239,Other License Taxes,1460
+0400000US36,36,New York,2016,0112124,Income Taxes,50690443
+0400000US36,36,New York,2016,01121241,Individual Income Taxes,46508632
+0400000US36,36,New York,2016,01121242,Corporations Net Income Taxes,4181811
+0400000US36,36,New York,2016,0112125,Other Taxes,4078516
+0400000US36,36,New York,2016,0112126,Death and Gift Taxes,1364261
+0400000US36,36,New York,2016,0112127,Documentarty and Stock Transfer Taxes,1299841
+0400000US36,36,New York,2016,0112128,Severance Taxes,X
+0400000US36,36,New York,2016,0112129,"Taxes, NEC",1414414
+0400000US37,37,North Carolina,2016,01121,Total Taxes,26201576
+0400000US37,37,North Carolina,2016,011211,Property Taxes,X
+0400000US37,37,North Carolina,2016,011212,Sales and Gross Receipts Taxes,11149110
+0400000US37,37,North Carolina,2016,0112121,General Sales and Gross Receipts Taxes,7187844
+0400000US37,37,North Carolina,2016,0112122,Selective Sales and Gross Receipts Taxes,3961266
+0400000US37,37,North Carolina,2016,01121221,Alcoholic Beverages Sales Tax,378744
+0400000US37,37,North Carolina,2016,01121222,Amusements Sales Tax,-250
+0400000US37,37,North Carolina,2016,01121223,Insurance Premiums Sales Tax,503407
+0400000US37,37,North Carolina,2016,01121224,Motor Fuels Sales Tax,1936102
+0400000US37,37,North Carolina,2016,01121225,Pari-mutuels Sales Tax,X
+0400000US37,37,North Carolina,2016,01121226,Public Utilities Sales Tax,122
+0400000US37,37,North Carolina,2016,01121227,Tobacco Products Sales Tax,286286
+0400000US37,37,North Carolina,2016,01121229,Other Selective Sales and Gross Receipts Taxes,856855
+0400000US37,37,North Carolina,2016,0112123,License Taxes,1869060
+0400000US37,37,North Carolina,2016,01121231,Alcoholic Beverages License,25140
+0400000US37,37,North Carolina,2016,01121232,Amusements License,199
+0400000US37,37,North Carolina,2016,01121233,Corporations in General License,609410
+0400000US37,37,North Carolina,2016,01121234,Hunting and Fishing License,33578
+0400000US37,37,North Carolina,2016,01121235,Motor Vehicle License,714464
+0400000US37,37,North Carolina,2016,01121236,Motor Vehicle Operators License,134435
+0400000US37,37,North Carolina,2016,01121237,Public Utilities License,20097
+0400000US37,37,North Carolina,2016,01121238,"Occupation and Business License, NEC",306808
+0400000US37,37,North Carolina,2016,01121239,Other License Taxes,24929
+0400000US37,37,North Carolina,2016,0112124,Income Taxes,13109468
+0400000US37,37,North Carolina,2016,01121241,Individual Income Taxes,12042957
+0400000US37,37,North Carolina,2016,01121242,Corporations Net Income Taxes,1066511
+0400000US37,37,North Carolina,2016,0112125,Other Taxes,73938
+0400000US37,37,North Carolina,2016,0112126,Death and Gift Taxes,4493
+0400000US37,37,North Carolina,2016,0112127,Documentarty and Stock Transfer Taxes,67484
+0400000US37,37,North Carolina,2016,0112128,Severance Taxes,1961
+0400000US37,37,North Carolina,2016,0112129,"Taxes, NEC",X
+0400000US38,38,North Dakota,2016,01121,Total Taxes,3709105
+0400000US38,38,North Dakota,2016,011211,Property Taxes,3910
+0400000US38,38,North Dakota,2016,011212,Sales and Gross Receipts Taxes,1496824
+0400000US38,38,North Dakota,2016,0112121,General Sales and Gross Receipts Taxes,1017269
+0400000US38,38,North Dakota,2016,0112122,Selective Sales and Gross Receipts Taxes,479555
+0400000US38,38,North Dakota,2016,01121221,Alcoholic Beverages Sales Tax,9026
+0400000US38,38,North Dakota,2016,01121222,Amusements Sales Tax,3406
+0400000US38,38,North Dakota,2016,01121223,Insurance Premiums Sales Tax,65113
+0400000US38,38,North Dakota,2016,01121224,Motor Fuels Sales Tax,196837
+0400000US38,38,North Dakota,2016,01121225,Pari-mutuels Sales Tax,1566
+0400000US38,38,North Dakota,2016,01121226,Public Utilities Sales Tax,46455
+0400000US38,38,North Dakota,2016,01121227,Tobacco Products Sales Tax,30757
+0400000US38,38,North Dakota,2016,01121229,Other Selective Sales and Gross Receipts Taxes,126395
+0400000US38,38,North Dakota,2016,0112123,License Taxes,204055
+0400000US38,38,North Dakota,2016,01121231,Alcoholic Beverages License,381
+0400000US38,38,North Dakota,2016,01121232,Amusements License,756
+0400000US38,38,North Dakota,2016,01121233,Corporations in General License,X
+0400000US38,38,North Dakota,2016,01121234,Hunting and Fishing License,19306
+0400000US38,38,North Dakota,2016,01121235,Motor Vehicle License,119473
+0400000US38,38,North Dakota,2016,01121236,Motor Vehicle Operators License,4226
+0400000US38,38,North Dakota,2016,01121237,Public Utilities License,6
+0400000US38,38,North Dakota,2016,01121238,"Occupation and Business License, NEC",59907
+0400000US38,38,North Dakota,2016,01121239,Other License Taxes,X
+0400000US38,38,North Dakota,2016,0112124,Income Taxes,454194
+0400000US38,38,North Dakota,2016,01121241,Individual Income Taxes,351125
+0400000US38,38,North Dakota,2016,01121242,Corporations Net Income Taxes,103069
+0400000US38,38,North Dakota,2016,0112125,Other Taxes,1550122
+0400000US38,38,North Dakota,2016,0112126,Death and Gift Taxes,0
+0400000US38,38,North Dakota,2016,0112127,Documentarty and Stock Transfer Taxes,X
+0400000US38,38,North Dakota,2016,0112128,Severance Taxes,1550122
+0400000US38,38,North Dakota,2016,0112129,"Taxes, NEC",X
+0400000US39,39,Ohio,2016,01121,Total Taxes,28694883
+0400000US39,39,Ohio,2016,011211,Property Taxes,X
+0400000US39,39,Ohio,2016,011212,Sales and Gross Receipts Taxes,18231167
+0400000US39,39,Ohio,2016,0112121,General Sales and Gross Receipts Taxes,12226504
+0400000US39,39,Ohio,2016,0112122,Selective Sales and Gross Receipts Taxes,6004663
+0400000US39,39,Ohio,2016,01121221,Alcoholic Beverages Sales Tax,100712
+0400000US39,39,Ohio,2016,01121222,Amusements Sales Tax,269267
+0400000US39,39,Ohio,2016,01121223,Insurance Premiums Sales Tax,579408
+0400000US39,39,Ohio,2016,01121224,Motor Fuels Sales Tax,1855699
+0400000US39,39,Ohio,2016,01121225,Pari-mutuels Sales Tax,5628
+0400000US39,39,Ohio,2016,01121226,Public Utilities Sales Tax,1156646
+0400000US39,39,Ohio,2016,01121227,Tobacco Products Sales Tax,1008798
+0400000US39,39,Ohio,2016,01121229,Other Selective Sales and Gross Receipts Taxes,1028505
+0400000US39,39,Ohio,2016,0112123,License Taxes,2223747
+0400000US39,39,Ohio,2016,01121231,Alcoholic Beverages License,42501
+0400000US39,39,Ohio,2016,01121232,Amusements License,37833
+0400000US39,39,Ohio,2016,01121233,Corporations in General License,237487
+0400000US39,39,Ohio,2016,01121234,Hunting and Fishing License,37695
+0400000US39,39,Ohio,2016,01121235,Motor Vehicle License,769085
+0400000US39,39,Ohio,2016,01121236,Motor Vehicle Operators License,78821
+0400000US39,39,Ohio,2016,01121237,Public Utilities License,27863
+0400000US39,39,Ohio,2016,01121238,"Occupation and Business License, NEC",943758
+0400000US39,39,Ohio,2016,01121239,Other License Taxes,48704
+0400000US39,39,Ohio,2016,0112124,Income Taxes,8202432
+0400000US39,39,Ohio,2016,01121241,Individual Income Taxes,8169197
+0400000US39,39,Ohio,2016,01121242,Corporations Net Income Taxes,33235
+0400000US39,39,Ohio,2016,0112125,Other Taxes,37537
+0400000US39,39,Ohio,2016,0112126,Death and Gift Taxes,2154
+0400000US39,39,Ohio,2016,0112127,Documentarty and Stock Transfer Taxes,X
+0400000US39,39,Ohio,2016,0112128,Severance Taxes,35383
+0400000US39,39,Ohio,2016,0112129,"Taxes, NEC",X
+0400000US40,40,Oklahoma,2016,01121,Total Taxes,8491187
+0400000US40,40,Oklahoma,2016,011211,Property Taxes,X
+0400000US40,40,Oklahoma,2016,011212,Sales and Gross Receipts Taxes,3778399
+0400000US40,40,Oklahoma,2016,0112121,General Sales and Gross Receipts Taxes,2471242
+0400000US40,40,Oklahoma,2016,0112122,Selective Sales and Gross Receipts Taxes,1307157
+0400000US40,40,Oklahoma,2016,01121221,Alcoholic Beverages Sales Tax,120099
+0400000US40,40,Oklahoma,2016,01121222,Amusements Sales Tax,20963
+0400000US40,40,Oklahoma,2016,01121223,Insurance Premiums Sales Tax,322604
+0400000US40,40,Oklahoma,2016,01121224,Motor Fuels Sales Tax,463962
+0400000US40,40,Oklahoma,2016,01121225,Pari-mutuels Sales Tax,1162
+0400000US40,40,Oklahoma,2016,01121226,Public Utilities Sales Tax,46168
+0400000US40,40,Oklahoma,2016,01121227,Tobacco Products Sales Tax,316471
+0400000US40,40,Oklahoma,2016,01121229,Other Selective Sales and Gross Receipts Taxes,15728
+0400000US40,40,Oklahoma,2016,0112123,License Taxes,1039167
+0400000US40,40,Oklahoma,2016,01121231,Alcoholic Beverages License,1224
+0400000US40,40,Oklahoma,2016,01121232,Amusements License,156410
+0400000US40,40,Oklahoma,2016,01121233,Corporations in General License,55082
+0400000US40,40,Oklahoma,2016,01121234,Hunting and Fishing License,21082
+0400000US40,40,Oklahoma,2016,01121235,Motor Vehicle License,719518
+0400000US40,40,Oklahoma,2016,01121236,Motor Vehicle Operators License,26963
+0400000US40,40,Oklahoma,2016,01121237,Public Utilities License,471
+0400000US40,40,Oklahoma,2016,01121238,"Occupation and Business License, NEC",57692
+0400000US40,40,Oklahoma,2016,01121239,Other License Taxes,725
+0400000US40,40,Oklahoma,2016,0112124,Income Taxes,3324653
+0400000US40,40,Oklahoma,2016,01121241,Individual Income Taxes,2996870
+0400000US40,40,Oklahoma,2016,01121242,Corporations Net Income Taxes,327783
+0400000US40,40,Oklahoma,2016,0112125,Other Taxes,348968
+0400000US40,40,Oklahoma,2016,0112126,Death and Gift Taxes,273
+0400000US40,40,Oklahoma,2016,0112127,Documentarty and Stock Transfer Taxes,17871
+0400000US40,40,Oklahoma,2016,0112128,Severance Taxes,330824
+0400000US40,40,Oklahoma,2016,0112129,"Taxes, NEC",X
+0400000US41,41,Oregon,2016,01121,Total Taxes,11043311
+0400000US41,41,Oregon,2016,011211,Property Taxes,20587
+0400000US41,41,Oregon,2016,011212,Sales and Gross Receipts Taxes,1532190
+0400000US41,41,Oregon,2016,0112121,General Sales and Gross Receipts Taxes,X
+0400000US41,41,Oregon,2016,0112122,Selective Sales and Gross Receipts Taxes,1532190
+0400000US41,41,Oregon,2016,01121221,Alcoholic Beverages Sales Tax,18375
+0400000US41,41,Oregon,2016,01121222,Amusements Sales Tax,X
+0400000US41,41,Oregon,2016,01121223,Insurance Premiums Sales Tax,86283
+0400000US41,41,Oregon,2016,01121224,Motor Fuels Sales Tax,517757
+0400000US41,41,Oregon,2016,01121225,Pari-mutuels Sales Tax,1980
+0400000US41,41,Oregon,2016,01121226,Public Utilities Sales Tax,96970
+0400000US41,41,Oregon,2016,01121227,Tobacco Products Sales Tax,268808
+0400000US41,41,Oregon,2016,01121229,Other Selective Sales and Gross Receipts Taxes,542017
+0400000US41,41,Oregon,2016,0112123,License Taxes,1048709
+0400000US41,41,Oregon,2016,01121231,Alcoholic Beverages License,4543
+0400000US41,41,Oregon,2016,01121232,Amusements License,2834
+0400000US41,41,Oregon,2016,01121233,Corporations in General License,34825
+0400000US41,41,Oregon,2016,01121234,Hunting and Fishing License,53978
+0400000US41,41,Oregon,2016,01121235,Motor Vehicle License,539474
+0400000US41,41,Oregon,2016,01121236,Motor Vehicle Operators License,37973
+0400000US41,41,Oregon,2016,01121237,Public Utilities License,14577
+0400000US41,41,Oregon,2016,01121238,"Occupation and Business License, NEC",353372
+0400000US41,41,Oregon,2016,01121239,Other License Taxes,7133
+0400000US41,41,Oregon,2016,0112124,Income Taxes,8299887
+0400000US41,41,Oregon,2016,01121241,Individual Income Taxes,7690019
+0400000US41,41,Oregon,2016,01121242,Corporations Net Income Taxes,609868
+0400000US41,41,Oregon,2016,0112125,Other Taxes,141938
+0400000US41,41,Oregon,2016,0112126,Death and Gift Taxes,125969
+0400000US41,41,Oregon,2016,0112127,Documentarty and Stock Transfer Taxes,2379
+0400000US41,41,Oregon,2016,0112128,Severance Taxes,13590
+0400000US41,41,Oregon,2016,0112129,"Taxes, NEC",X
+0400000US42,42,Pennsylvania,2016,01121,Total Taxes,37394589
+0400000US42,42,Pennsylvania,2016,011211,Property Taxes,43124
+0400000US42,42,Pennsylvania,2016,011212,Sales and Gross Receipts Taxes,19284374
+0400000US42,42,Pennsylvania,2016,0112121,General Sales and Gross Receipts Taxes,10221593
+0400000US42,42,Pennsylvania,2016,0112122,Selective Sales and Gross Receipts Taxes,9062781
+0400000US42,42,Pennsylvania,2016,01121221,Alcoholic Beverages Sales Tax,373004
+0400000US42,42,Pennsylvania,2016,01121222,Amusements Sales Tax,1395968
+0400000US42,42,Pennsylvania,2016,01121223,Insurance Premiums Sales Tax,820513
+0400000US42,42,Pennsylvania,2016,01121224,Motor Fuels Sales Tax,2971950
+0400000US42,42,Pennsylvania,2016,01121225,Pari-mutuels Sales Tax,10350
+0400000US42,42,Pennsylvania,2016,01121226,Public Utilities Sales Tax,1310130
+0400000US42,42,Pennsylvania,2016,01121227,Tobacco Products Sales Tax,962110
+0400000US42,42,Pennsylvania,2016,01121229,Other Selective Sales and Gross Receipts Taxes,1218756
+0400000US42,42,Pennsylvania,2016,0112123,License Taxes,2159170
+0400000US42,42,Pennsylvania,2016,01121231,Alcoholic Beverages License,17741
+0400000US42,42,Pennsylvania,2016,01121232,Amusements License,11820
+0400000US42,42,Pennsylvania,2016,01121233,Corporations in General License,80943
+0400000US42,42,Pennsylvania,2016,01121234,Hunting and Fishing License,74654
+0400000US42,42,Pennsylvania,2016,01121235,Motor Vehicle License,900127
+0400000US42,42,Pennsylvania,2016,01121236,Motor Vehicle Operators License,71765
+0400000US42,42,Pennsylvania,2016,01121237,Public Utilities License,80661
+0400000US42,42,Pennsylvania,2016,01121238,"Occupation and Business License, NEC",901143
+0400000US42,42,Pennsylvania,2016,01121239,Other License Taxes,20316
+0400000US42,42,Pennsylvania,2016,0112124,Income Taxes,14388463
+0400000US42,42,Pennsylvania,2016,01121241,Individual Income Taxes,11932232
+0400000US42,42,Pennsylvania,2016,01121242,Corporations Net Income Taxes,2456231
+0400000US42,42,Pennsylvania,2016,0112125,Other Taxes,1519458
+0400000US42,42,Pennsylvania,2016,0112126,Death and Gift Taxes,933140
+0400000US42,42,Pennsylvania,2016,0112127,Documentarty and Stock Transfer Taxes,562623
+0400000US42,42,Pennsylvania,2016,0112128,Severance Taxes,X
+0400000US42,42,Pennsylvania,2016,0112129,"Taxes, NEC",23695
+0400000US44,44,Rhode Island,2016,01121,Total Taxes,3265727
+0400000US44,44,Rhode Island,2016,011211,Property Taxes,2544
+0400000US44,44,Rhode Island,2016,011212,Sales and Gross Receipts Taxes,1665438
+0400000US44,44,Rhode Island,2016,0112121,General Sales and Gross Receipts Taxes,973585
+0400000US44,44,Rhode Island,2016,0112122,Selective Sales and Gross Receipts Taxes,691853
+0400000US44,44,Rhode Island,2016,01121221,Alcoholic Beverages Sales Tax,20399
+0400000US44,44,Rhode Island,2016,01121222,Amusements Sales Tax,X
+0400000US44,44,Rhode Island,2016,01121223,Insurance Premiums Sales Tax,113993
+0400000US44,44,Rhode Island,2016,01121224,Motor Fuels Sales Tax,90032
+0400000US44,44,Rhode Island,2016,01121225,Pari-mutuels Sales Tax,1070
+0400000US44,44,Rhode Island,2016,01121226,Public Utilities Sales Tax,103971
+0400000US44,44,Rhode Island,2016,01121227,Tobacco Products Sales Tax,144403
+0400000US44,44,Rhode Island,2016,01121229,Other Selective Sales and Gross Receipts Taxes,217985
+0400000US44,44,Rhode Island,2016,0112123,License Taxes,120936
+0400000US44,44,Rhode Island,2016,01121231,Alcoholic Beverages License,72
+0400000US44,44,Rhode Island,2016,01121232,Amusements License,197
+0400000US44,44,Rhode Island,2016,01121233,Corporations in General License,5131
+0400000US44,44,Rhode Island,2016,01121234,Hunting and Fishing License,1988
+0400000US44,44,Rhode Island,2016,01121235,Motor Vehicle License,45359
+0400000US44,44,Rhode Island,2016,01121236,Motor Vehicle Operators License,4911
+0400000US44,44,Rhode Island,2016,01121237,Public Utilities License,X
+0400000US44,44,Rhode Island,2016,01121238,"Occupation and Business License, NEC",58915
+0400000US44,44,Rhode Island,2016,01121239,Other License Taxes,4363
+0400000US44,44,Rhode Island,2016,0112124,Income Taxes,1380463
+0400000US44,44,Rhode Island,2016,01121241,Individual Income Taxes,1236194
+0400000US44,44,Rhode Island,2016,01121242,Corporations Net Income Taxes,144269
+0400000US44,44,Rhode Island,2016,0112125,Other Taxes,96346
+0400000US44,44,Rhode Island,2016,0112126,Death and Gift Taxes,75288
+0400000US44,44,Rhode Island,2016,0112127,Documentarty and Stock Transfer Taxes,21058
+0400000US44,44,Rhode Island,2016,0112128,Severance Taxes,X
+0400000US44,44,Rhode Island,2016,0112129,"Taxes, NEC",X
+0400000US45,45,South Carolina,2016,01121,Total Taxes,9551052
+0400000US45,45,South Carolina,2016,011211,Property Taxes,32670
+0400000US45,45,South Carolina,2016,011212,Sales and Gross Receipts Taxes,4620807
+0400000US45,45,South Carolina,2016,0112121,General Sales and Gross Receipts Taxes,3268415
+0400000US45,45,South Carolina,2016,0112122,Selective Sales and Gross Receipts Taxes,1352392
+0400000US45,45,South Carolina,2016,01121221,Alcoholic Beverages Sales Tax,173138
+0400000US45,45,South Carolina,2016,01121222,Amusements Sales Tax,42530
+0400000US45,45,South Carolina,2016,01121223,Insurance Premiums Sales Tax,246059
+0400000US45,45,South Carolina,2016,01121224,Motor Fuels Sales Tax,565405
+0400000US45,45,South Carolina,2016,01121225,Pari-mutuels Sales Tax,X
+0400000US45,45,South Carolina,2016,01121226,Public Utilities Sales Tax,29158
+0400000US45,45,South Carolina,2016,01121227,Tobacco Products Sales Tax,27264
+0400000US45,45,South Carolina,2016,01121229,Other Selective Sales and Gross Receipts Taxes,268838
+0400000US45,45,South Carolina,2016,0112123,License Taxes,499053
+0400000US45,45,South Carolina,2016,01121231,Alcoholic Beverages License,12591
+0400000US45,45,South Carolina,2016,01121232,Amusements License,1266
+0400000US45,45,South Carolina,2016,01121233,Corporations in General License,88702
+0400000US45,45,South Carolina,2016,01121234,Hunting and Fishing License,18284
+0400000US45,45,South Carolina,2016,01121235,Motor Vehicle License,240551
+0400000US45,45,South Carolina,2016,01121236,Motor Vehicle Operators License,8686
+0400000US45,45,South Carolina,2016,01121237,Public Utilities License,10487
+0400000US45,45,South Carolina,2016,01121238,"Occupation and Business License, NEC",100076
+0400000US45,45,South Carolina,2016,01121239,Other License Taxes,18410
+0400000US45,45,South Carolina,2016,0112124,Income Taxes,4309831
+0400000US45,45,South Carolina,2016,01121241,Individual Income Taxes,3869342
+0400000US45,45,South Carolina,2016,01121242,Corporations Net Income Taxes,440489
+0400000US45,45,South Carolina,2016,0112125,Other Taxes,88691
+0400000US45,45,South Carolina,2016,0112126,Death and Gift Taxes,X
+0400000US45,45,South Carolina,2016,0112127,Documentarty and Stock Transfer Taxes,88691
+0400000US45,45,South Carolina,2016,0112128,Severance Taxes,X
+0400000US45,45,South Carolina,2016,0112129,"Taxes, NEC",X
+0400000US46,46,South Dakota,2016,01121,Total Taxes,1747550
+0400000US46,46,South Dakota,2016,011211,Property Taxes,X
+0400000US46,46,South Dakota,2016,011212,Sales and Gross Receipts Taxes,1440041
+0400000US46,46,South Dakota,2016,0112121,General Sales and Gross Receipts Taxes,968787
+0400000US46,46,South Dakota,2016,0112122,Selective Sales and Gross Receipts Taxes,471254
+0400000US46,46,South Dakota,2016,01121221,Alcoholic Beverages Sales Tax,16656
+0400000US46,46,South Dakota,2016,01121222,Amusements Sales Tax,9256
+0400000US46,46,South Dakota,2016,01121223,Insurance Premiums Sales Tax,86879
+0400000US46,46,South Dakota,2016,01121224,Motor Fuels Sales Tax,186990
+0400000US46,46,South Dakota,2016,01121225,Pari-mutuels Sales Tax,388
+0400000US46,46,South Dakota,2016,01121226,Public Utilities Sales Tax,3624
+0400000US46,46,South Dakota,2016,01121227,Tobacco Products Sales Tax,63082
+0400000US46,46,South Dakota,2016,01121229,Other Selective Sales and Gross Receipts Taxes,104379
+0400000US46,46,South Dakota,2016,0112123,License Taxes,268227
+0400000US46,46,South Dakota,2016,01121231,Alcoholic Beverages License,530
+0400000US46,46,South Dakota,2016,01121232,Amusements License,6617
+0400000US46,46,South Dakota,2016,01121233,Corporations in General License,5194
+0400000US46,46,South Dakota,2016,01121234,Hunting and Fishing License,30699
+0400000US46,46,South Dakota,2016,01121235,Motor Vehicle License,89045
+0400000US46,46,South Dakota,2016,01121236,Motor Vehicle Operators License,5346
+0400000US46,46,South Dakota,2016,01121237,Public Utilities License,X
+0400000US46,46,South Dakota,2016,01121238,"Occupation and Business License, NEC",107967
+0400000US46,46,South Dakota,2016,01121239,Other License Taxes,22829
+0400000US46,46,South Dakota,2016,0112124,Income Taxes,32684
+0400000US46,46,South Dakota,2016,01121241,Individual Income Taxes,X
+0400000US46,46,South Dakota,2016,01121242,Corporations Net Income Taxes,32684
+0400000US46,46,South Dakota,2016,0112125,Other Taxes,6598
+0400000US46,46,South Dakota,2016,0112126,Death and Gift Taxes,X
+0400000US46,46,South Dakota,2016,0112127,Documentarty and Stock Transfer Taxes,194
+0400000US46,46,South Dakota,2016,0112128,Severance Taxes,6404
+0400000US46,46,South Dakota,2016,0112129,"Taxes, NEC",X
+0400000US47,47,Tennessee,2016,01121,Total Taxes,13386169
+0400000US47,47,Tennessee,2016,011211,Property Taxes,X
+0400000US47,47,Tennessee,2016,011212,Sales and Gross Receipts Taxes,9704247
+0400000US47,47,Tennessee,2016,0112121,General Sales and Gross Receipts Taxes,7006376
+0400000US47,47,Tennessee,2016,0112122,Selective Sales and Gross Receipts Taxes,2697871
+0400000US47,47,Tennessee,2016,01121221,Alcoholic Beverages Sales Tax,174340
+0400000US47,47,Tennessee,2016,01121222,Amusements Sales Tax,0
+0400000US47,47,Tennessee,2016,01121223,Insurance Premiums Sales Tax,885037
+0400000US47,47,Tennessee,2016,01121224,Motor Fuels Sales Tax,897608
+0400000US47,47,Tennessee,2016,01121225,Pari-mutuels Sales Tax,0
+0400000US47,47,Tennessee,2016,01121226,Public Utilities Sales Tax,8268
+0400000US47,47,Tennessee,2016,01121227,Tobacco Products Sales Tax,263739
+0400000US47,47,Tennessee,2016,01121229,Other Selective Sales and Gross Receipts Taxes,468879
+0400000US47,47,Tennessee,2016,0112123,License Taxes,1516966
+0400000US47,47,Tennessee,2016,01121231,Alcoholic Beverages License,1467
+0400000US47,47,Tennessee,2016,01121232,Amusements License,254
+0400000US47,47,Tennessee,2016,01121233,Corporations in General License,773374
+0400000US47,47,Tennessee,2016,01121234,Hunting and Fishing License,38848
+0400000US47,47,Tennessee,2016,01121235,Motor Vehicle License,301635
+0400000US47,47,Tennessee,2016,01121236,Motor Vehicle Operators License,56063
+0400000US47,47,Tennessee,2016,01121237,Public Utilities License,6108
+0400000US47,47,Tennessee,2016,01121238,"Occupation and Business License, NEC",330149
+0400000US47,47,Tennessee,2016,01121239,Other License Taxes,9068
+0400000US47,47,Tennessee,2016,0112124,Income Taxes,1862601
+0400000US47,47,Tennessee,2016,01121241,Individual Income Taxes,323952
+0400000US47,47,Tennessee,2016,01121242,Corporations Net Income Taxes,1538649
+0400000US47,47,Tennessee,2016,0112125,Other Taxes,302355
+0400000US47,47,Tennessee,2016,0112126,Death and Gift Taxes,62471
+0400000US47,47,Tennessee,2016,0112127,Documentarty and Stock Transfer Taxes,219188
+0400000US47,47,Tennessee,2016,0112128,Severance Taxes,1444
+0400000US47,47,Tennessee,2016,0112129,"Taxes, NEC",19252
+0400000US48,48,Texas,2016,01121,Total Taxes,52132817
+0400000US48,48,Texas,2016,011211,Property Taxes,X
+0400000US48,48,Texas,2016,011212,Sales and Gross Receipts Taxes,46370774
+0400000US48,48,Texas,2016,0112121,General Sales and Gross Receipts Taxes,32131385
+0400000US48,48,Texas,2016,0112122,Selective Sales and Gross Receipts Taxes,14239389
+0400000US48,48,Texas,2016,01121221,Alcoholic Beverages Sales Tax,1191961
+0400000US48,48,Texas,2016,01121222,Amusements Sales Tax,29780
+0400000US48,48,Texas,2016,01121223,Insurance Premiums Sales Tax,2171362
+0400000US48,48,Texas,2016,01121224,Motor Fuels Sales Tax,3500210
+0400000US48,48,Texas,2016,01121225,Pari-mutuels Sales Tax,6954
+0400000US48,48,Texas,2016,01121226,Public Utilities Sales Tax,605487
+0400000US48,48,Texas,2016,01121227,Tobacco Products Sales Tax,1479863
+0400000US48,48,Texas,2016,01121229,Other Selective Sales and Gross Receipts Taxes,5253772
+0400000US48,48,Texas,2016,0112123,License Taxes,3414335
+0400000US48,48,Texas,2016,01121231,Alcoholic Beverages License,74711
+0400000US48,48,Texas,2016,01121232,Amusements License,19874
+0400000US48,48,Texas,2016,01121233,Corporations in General License,137109
+0400000US48,48,Texas,2016,01121234,Hunting and Fishing License,110051
+0400000US48,48,Texas,2016,01121235,Motor Vehicle License,2227996
+0400000US48,48,Texas,2016,01121236,Motor Vehicle Operators License,137372
+0400000US48,48,Texas,2016,01121237,Public Utilities License,20542
+0400000US48,48,Texas,2016,01121238,"Occupation and Business License, NEC",517411
+0400000US48,48,Texas,2016,01121239,Other License Taxes,169269
+0400000US48,48,Texas,2016,0112124,Income Taxes,X
+0400000US48,48,Texas,2016,01121241,Individual Income Taxes,X
+0400000US48,48,Texas,2016,01121242,Corporations Net Income Taxes,X
+0400000US48,48,Texas,2016,0112125,Other Taxes,2347708
+0400000US48,48,Texas,2016,0112126,Death and Gift Taxes,X
+0400000US48,48,Texas,2016,0112127,Documentarty and Stock Transfer Taxes,X
+0400000US48,48,Texas,2016,0112128,Severance Taxes,2347708
+0400000US48,48,Texas,2016,0112129,"Taxes, NEC",X
+0400000US49,49,Utah,2016,01121,Total Taxes,7082961
+0400000US49,49,Utah,2016,011211,Property Taxes,X
+0400000US49,49,Utah,2016,011212,Sales and Gross Receipts Taxes,3031819
+0400000US49,49,Utah,2016,0112121,General Sales and Gross Receipts Taxes,2083671
+0400000US49,49,Utah,2016,0112122,Selective Sales and Gross Receipts Taxes,948148
+0400000US49,49,Utah,2016,01121221,Alcoholic Beverages Sales Tax,51563
+0400000US49,49,Utah,2016,01121222,Amusements Sales Tax,X
+0400000US49,49,Utah,2016,01121223,Insurance Premiums Sales Tax,133157
+0400000US49,49,Utah,2016,01121224,Motor Fuels Sales Tax,419727
+0400000US49,49,Utah,2016,01121225,Pari-mutuels Sales Tax,X
+0400000US49,49,Utah,2016,01121226,Public Utilities Sales Tax,24351
+0400000US49,49,Utah,2016,01121227,Tobacco Products Sales Tax,119717
+0400000US49,49,Utah,2016,01121229,Other Selective Sales and Gross Receipts Taxes,199633
+0400000US49,49,Utah,2016,0112123,License Taxes,290426
+0400000US49,49,Utah,2016,01121231,Alcoholic Beverages License,2669
+0400000US49,49,Utah,2016,01121232,Amusements License,X
+0400000US49,49,Utah,2016,01121233,Corporations in General License,586
+0400000US49,49,Utah,2016,01121234,Hunting and Fishing License,29813
+0400000US49,49,Utah,2016,01121235,Motor Vehicle License,184078
+0400000US49,49,Utah,2016,01121236,Motor Vehicle Operators License,15414
+0400000US49,49,Utah,2016,01121237,Public Utilities License,X
+0400000US49,49,Utah,2016,01121238,"Occupation and Business License, NEC",53264
+0400000US49,49,Utah,2016,01121239,Other License Taxes,4602
+0400000US49,49,Utah,2016,0112124,Income Taxes,3707893
+0400000US49,49,Utah,2016,01121241,Individual Income Taxes,3374535
+0400000US49,49,Utah,2016,01121242,Corporations Net Income Taxes,333358
+0400000US49,49,Utah,2016,0112125,Other Taxes,52823
+0400000US49,49,Utah,2016,0112126,Death and Gift Taxes,X
+0400000US49,49,Utah,2016,0112127,Documentarty and Stock Transfer Taxes,X
+0400000US49,49,Utah,2016,0112128,Severance Taxes,52823
+0400000US49,49,Utah,2016,0112129,"Taxes, NEC",X
+0400000US50,50,Vermont,2016,01121,Total Taxes,3085865
+0400000US50,50,Vermont,2016,011211,Property Taxes,1056323
+0400000US50,50,Vermont,2016,011212,Sales and Gross Receipts Taxes,1031257
+0400000US50,50,Vermont,2016,0112121,General Sales and Gross Receipts Taxes,371365
+0400000US50,50,Vermont,2016,0112122,Selective Sales and Gross Receipts Taxes,659892
+0400000US50,50,Vermont,2016,01121221,Alcoholic Beverages Sales Tax,25025
+0400000US50,50,Vermont,2016,01121222,Amusements Sales Tax,X
+0400000US50,50,Vermont,2016,01121223,Insurance Premiums Sales Tax,59055
+0400000US50,50,Vermont,2016,01121224,Motor Fuels Sales Tax,77404
+0400000US50,50,Vermont,2016,01121225,Pari-mutuels Sales Tax,0
+0400000US50,50,Vermont,2016,01121226,Public Utilities Sales Tax,9012
+0400000US50,50,Vermont,2016,01121227,Tobacco Products Sales Tax,80418
+0400000US50,50,Vermont,2016,01121229,Other Selective Sales and Gross Receipts Taxes,408978
+0400000US50,50,Vermont,2016,0112123,License Taxes,117328
+0400000US50,50,Vermont,2016,01121231,Alcoholic Beverages License,431
+0400000US50,50,Vermont,2016,01121232,Amusements License,26
+0400000US50,50,Vermont,2016,01121233,Corporations in General License,3444
+0400000US50,50,Vermont,2016,01121234,Hunting and Fishing License,7833
+0400000US50,50,Vermont,2016,01121235,Motor Vehicle License,71626
+0400000US50,50,Vermont,2016,01121236,Motor Vehicle Operators License,9550
+0400000US50,50,Vermont,2016,01121237,Public Utilities License,X
+0400000US50,50,Vermont,2016,01121238,"Occupation and Business License, NEC",20955
+0400000US50,50,Vermont,2016,01121239,Other License Taxes,3463
+0400000US50,50,Vermont,2016,0112124,Income Taxes,828322
+0400000US50,50,Vermont,2016,01121241,Individual Income Taxes,729986
+0400000US50,50,Vermont,2016,01121242,Corporations Net Income Taxes,98336
+0400000US50,50,Vermont,2016,0112125,Other Taxes,52635
+0400000US50,50,Vermont,2016,0112126,Death and Gift Taxes,12509
+0400000US50,50,Vermont,2016,0112127,Documentarty and Stock Transfer Taxes,35627
+0400000US50,50,Vermont,2016,0112128,Severance Taxes,X
+0400000US50,50,Vermont,2016,0112129,"Taxes, NEC",4499
+0400000US51,51,Virginia,2016,01121,Total Taxes,21219757
+0400000US51,51,Virginia,2016,011211,Property Taxes,30367
+0400000US51,51,Virginia,2016,011212,Sales and Gross Receipts Taxes,6886378
+0400000US51,51,Virginia,2016,0112121,General Sales and Gross Receipts Taxes,3931717
+0400000US51,51,Virginia,2016,0112122,Selective Sales and Gross Receipts Taxes,2954661
+0400000US51,51,Virginia,2016,01121221,Alcoholic Beverages Sales Tax,268547
+0400000US51,51,Virginia,2016,01121222,Amusements Sales Tax,83
+0400000US51,51,Virginia,2016,01121223,Insurance Premiums Sales Tax,491495
+0400000US51,51,Virginia,2016,01121224,Motor Fuels Sales Tax,895589
+0400000US51,51,Virginia,2016,01121225,Pari-mutuels Sales Tax,X
+0400000US51,51,Virginia,2016,01121226,Public Utilities Sales Tax,121749
+0400000US51,51,Virginia,2016,01121227,Tobacco Products Sales Tax,178847
+0400000US51,51,Virginia,2016,01121229,Other Selective Sales and Gross Receipts Taxes,998351
+0400000US51,51,Virginia,2016,0112123,License Taxes,826306
+0400000US51,51,Virginia,2016,01121231,Alcoholic Beverages License,13297
+0400000US51,51,Virginia,2016,01121232,Amusements License,129
+0400000US51,51,Virginia,2016,01121233,Corporations in General License,61138
+0400000US51,51,Virginia,2016,01121234,Hunting and Fishing License,27763
+0400000US51,51,Virginia,2016,01121235,Motor Vehicle License,477126
+0400000US51,51,Virginia,2016,01121236,Motor Vehicle Operators License,40558
+0400000US51,51,Virginia,2016,01121237,Public Utilities License,X
+0400000US51,51,Virginia,2016,01121238,"Occupation and Business License, NEC",202087
+0400000US51,51,Virginia,2016,01121239,Other License Taxes,4208
+0400000US51,51,Virginia,2016,0112124,Income Taxes,12990685
+0400000US51,51,Virginia,2016,01121241,Individual Income Taxes,12237996
+0400000US51,51,Virginia,2016,01121242,Corporations Net Income Taxes,752689
+0400000US51,51,Virginia,2016,0112125,Other Taxes,486021
+0400000US51,51,Virginia,2016,0112126,Death and Gift Taxes,222
+0400000US51,51,Virginia,2016,0112127,Documentarty and Stock Transfer Taxes,368747
+0400000US51,51,Virginia,2016,0112128,Severance Taxes,2468
+0400000US51,51,Virginia,2016,0112129,"Taxes, NEC",114584
+0400000US53,53,Washington,2016,01121,Total Taxes,22280088
+0400000US53,53,Washington,2016,011211,Property Taxes,2062065
+0400000US53,53,Washington,2016,011212,Sales and Gross Receipts Taxes,17636031
+0400000US53,53,Washington,2016,0112121,General Sales and Gross Receipts Taxes,13560382
+0400000US53,53,Washington,2016,0112122,Selective Sales and Gross Receipts Taxes,4075649
+0400000US53,53,Washington,2016,01121221,Alcoholic Beverages Sales Tax,347642
+0400000US53,53,Washington,2016,01121222,Amusements Sales Tax,X
+0400000US53,53,Washington,2016,01121223,Insurance Premiums Sales Tax,534663
+0400000US53,53,Washington,2016,01121224,Motor Fuels Sales Tax,1457933
+0400000US53,53,Washington,2016,01121225,Pari-mutuels Sales Tax,1840
+0400000US53,53,Washington,2016,01121226,Public Utilities Sales Tax,489225
+0400000US53,53,Washington,2016,01121227,Tobacco Products Sales Tax,450805
+0400000US53,53,Washington,2016,01121229,Other Selective Sales and Gross Receipts Taxes,793541
+0400000US53,53,Washington,2016,0112123,License Taxes,1461200
+0400000US53,53,Washington,2016,01121231,Alcoholic Beverages License,143858
+0400000US53,53,Washington,2016,01121232,Amusements License,6630
+0400000US53,53,Washington,2016,01121233,Corporations in General License,35739
+0400000US53,53,Washington,2016,01121234,Hunting and Fishing License,43864
+0400000US53,53,Washington,2016,01121235,Motor Vehicle License,603519
+0400000US53,53,Washington,2016,01121236,Motor Vehicle Operators License,119671
+0400000US53,53,Washington,2016,01121237,Public Utilities License,22587
+0400000US53,53,Washington,2016,01121238,"Occupation and Business License, NEC",323654
+0400000US53,53,Washington,2016,01121239,Other License Taxes,161678
+0400000US53,53,Washington,2016,0112124,Income Taxes,X
+0400000US53,53,Washington,2016,01121241,Individual Income Taxes,X
+0400000US53,53,Washington,2016,01121242,Corporations Net Income Taxes,X
+0400000US53,53,Washington,2016,0112125,Other Taxes,1120792
+0400000US53,53,Washington,2016,0112126,Death and Gift Taxes,136035
+0400000US53,53,Washington,2016,0112127,Documentarty and Stock Transfer Taxes,945026
+0400000US53,53,Washington,2016,0112128,Severance Taxes,39731
+0400000US53,53,Washington,2016,0112129,"Taxes, NEC",X
+0400000US54,54,West Virginia,2016,01121,Total Taxes,5127970
+0400000US54,54,West Virginia,2016,011211,Property Taxes,6957
+0400000US54,54,West Virginia,2016,011212,Sales and Gross Receipts Taxes,2566690
+0400000US54,54,West Virginia,2016,0112121,General Sales and Gross Receipts Taxes,1286833
+0400000US54,54,West Virginia,2016,0112122,Selective Sales and Gross Receipts Taxes,1279857
+0400000US54,54,West Virginia,2016,01121221,Alcoholic Beverages Sales Tax,17936
+0400000US54,54,West Virginia,2016,01121222,Amusements Sales Tax,43545
+0400000US54,54,West Virginia,2016,01121223,Insurance Premiums Sales Tax,158315
+0400000US54,54,West Virginia,2016,01121224,Motor Fuels Sales Tax,396010
+0400000US54,54,West Virginia,2016,01121225,Pari-mutuels Sales Tax,2282
+0400000US54,54,West Virginia,2016,01121226,Public Utilities Sales Tax,120406
+0400000US54,54,West Virginia,2016,01121227,Tobacco Products Sales Tax,100273
+0400000US54,54,West Virginia,2016,01121229,Other Selective Sales and Gross Receipts Taxes,441090
+0400000US54,54,West Virginia,2016,0112123,License Taxes,128478
+0400000US54,54,West Virginia,2016,01121231,Alcoholic Beverages License,995
+0400000US54,54,West Virginia,2016,01121232,Amusements License,3192
+0400000US54,54,West Virginia,2016,01121233,Corporations in General License,986
+0400000US54,54,West Virginia,2016,01121234,Hunting and Fishing License,12096
+0400000US54,54,West Virginia,2016,01121235,Motor Vehicle License,4295
+0400000US54,54,West Virginia,2016,01121236,Motor Vehicle Operators License,95314
+0400000US54,54,West Virginia,2016,01121237,Public Utilities License,442
+0400000US54,54,West Virginia,2016,01121238,"Occupation and Business License, NEC",9928
+0400000US54,54,West Virginia,2016,01121239,Other License Taxes,1230
+0400000US54,54,West Virginia,2016,0112124,Income Taxes,1990391
+0400000US54,54,West Virginia,2016,01121241,Individual Income Taxes,1845711
+0400000US54,54,West Virginia,2016,01121242,Corporations Net Income Taxes,144680
+0400000US54,54,West Virginia,2016,0112125,Other Taxes,435454
+0400000US54,54,West Virginia,2016,0112126,Death and Gift Taxes,X
+0400000US54,54,West Virginia,2016,0112127,Documentarty and Stock Transfer Taxes,10631
+0400000US54,54,West Virginia,2016,0112128,Severance Taxes,424823
+0400000US54,54,West Virginia,2016,0112129,"Taxes, NEC",X
+0400000US55,55,Wisconsin,2016,01121,Total Taxes,17607733
+0400000US55,55,Wisconsin,2016,011211,Property Taxes,170537
+0400000US55,55,Wisconsin,2016,011212,Sales and Gross Receipts Taxes,7721707
+0400000US55,55,Wisconsin,2016,0112121,General Sales and Gross Receipts Taxes,5058789
+0400000US55,55,Wisconsin,2016,0112122,Selective Sales and Gross Receipts Taxes,2662918
+0400000US55,55,Wisconsin,2016,01121221,Alcoholic Beverages Sales Tax,58970
+0400000US55,55,Wisconsin,2016,01121222,Amusements Sales Tax,201
+0400000US55,55,Wisconsin,2016,01121223,Insurance Premiums Sales Tax,196543
+0400000US55,55,Wisconsin,2016,01121224,Motor Fuels Sales Tax,1043282
+0400000US55,55,Wisconsin,2016,01121225,Pari-mutuels Sales Tax,X
+0400000US55,55,Wisconsin,2016,01121226,Public Utilities Sales Tax,326990
+0400000US55,55,Wisconsin,2016,01121227,Tobacco Products Sales Tax,649538
+0400000US55,55,Wisconsin,2016,01121229,Other Selective Sales and Gross Receipts Taxes,387394
+0400000US55,55,Wisconsin,2016,0112123,License Taxes,1151656
+0400000US55,55,Wisconsin,2016,01121231,Alcoholic Beverages License,1823
+0400000US55,55,Wisconsin,2016,01121232,Amusements License,545
+0400000US55,55,Wisconsin,2016,01121233,Corporations in General License,20357
+0400000US55,55,Wisconsin,2016,01121234,Hunting and Fishing License,67572
+0400000US55,55,Wisconsin,2016,01121235,Motor Vehicle License,493293
+0400000US55,55,Wisconsin,2016,01121236,Motor Vehicle Operators License,40113
+0400000US55,55,Wisconsin,2016,01121237,Public Utilities License,88707
+0400000US55,55,Wisconsin,2016,01121238,"Occupation and Business License, NEC",437933
+0400000US55,55,Wisconsin,2016,01121239,Other License Taxes,1313
+0400000US55,55,Wisconsin,2016,0112124,Income Taxes,8473461
+0400000US55,55,Wisconsin,2016,01121241,Individual Income Taxes,7486676
+0400000US55,55,Wisconsin,2016,01121242,Corporations Net Income Taxes,986785
+0400000US55,55,Wisconsin,2016,0112125,Other Taxes,90372
+0400000US55,55,Wisconsin,2016,0112126,Death and Gift Taxes,1745
+0400000US55,55,Wisconsin,2016,0112127,Documentarty and Stock Transfer Taxes,65154
+0400000US55,55,Wisconsin,2016,0112128,Severance Taxes,10562
+0400000US55,55,Wisconsin,2016,0112129,"Taxes, NEC",12911
+0400000US56,56,Wyoming,2016,01121,Total Taxes,1913607
+0400000US56,56,Wyoming,2016,011211,Property Taxes,338776
+0400000US56,56,Wyoming,2016,011212,Sales and Gross Receipts Taxes,820146
+0400000US56,56,Wyoming,2016,0112121,General Sales and Gross Receipts Taxes,641495
+0400000US56,56,Wyoming,2016,0112122,Selective Sales and Gross Receipts Taxes,178651
+0400000US56,56,Wyoming,2016,01121221,Alcoholic Beverages Sales Tax,1919
+0400000US56,56,Wyoming,2016,01121222,Amusements Sales Tax,X
+0400000US56,56,Wyoming,2016,01121223,Insurance Premiums Sales Tax,27991
+0400000US56,56,Wyoming,2016,01121224,Motor Fuels Sales Tax,115175
+0400000US56,56,Wyoming,2016,01121225,Pari-mutuels Sales Tax,1963
+0400000US56,56,Wyoming,2016,01121226,Public Utilities Sales Tax,4823
+0400000US56,56,Wyoming,2016,01121227,Tobacco Products Sales Tax,24060
+0400000US56,56,Wyoming,2016,01121229,Other Selective Sales and Gross Receipts Taxes,2720
+0400000US56,56,Wyoming,2016,0112123,License Taxes,157086
+0400000US56,56,Wyoming,2016,01121231,Alcoholic Beverages License,X
+0400000US56,56,Wyoming,2016,01121232,Amusements License,X
+0400000US56,56,Wyoming,2016,01121233,Corporations in General License,13826
+0400000US56,56,Wyoming,2016,01121234,Hunting and Fishing License,33919
+0400000US56,56,Wyoming,2016,01121235,Motor Vehicle License,76448
+0400000US56,56,Wyoming,2016,01121236,Motor Vehicle Operators License,2303
+0400000US56,56,Wyoming,2016,01121237,Public Utilities License,X
+0400000US56,56,Wyoming,2016,01121238,"Occupation and Business License, NEC",30590
+0400000US56,56,Wyoming,2016,01121239,Other License Taxes,X
+0400000US56,56,Wyoming,2016,0112124,Income Taxes,X
+0400000US56,56,Wyoming,2016,01121241,Individual Income Taxes,X
+0400000US56,56,Wyoming,2016,01121242,Corporations Net Income Taxes,X
+0400000US56,56,Wyoming,2016,0112125,Other Taxes,597599
+0400000US56,56,Wyoming,2016,0112126,Death and Gift Taxes,X
+0400000US56,56,Wyoming,2016,0112127,Documentarty and Stock Transfer Taxes,X
+0400000US56,56,Wyoming,2016,0112128,Severance Taxes,593959
+0400000US56,56,Wyoming,2016,0112129,"Taxes, NEC",3640

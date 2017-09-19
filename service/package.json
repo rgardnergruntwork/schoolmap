@@ -1,0 +1,24 @@
+{
+  "name": "schoolservice",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:4000",
+  "dependencies": {
+    "docker": "^1.0.0",
+    "fusioncharts": "^3.12.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-fusioncharts": "^1.0.4",
+    "react-scripts": "1.0.10",
+    "serverless": "^1.20.2",
+    "serverless-plugin-simulate": "0.0.17",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {}
+}
